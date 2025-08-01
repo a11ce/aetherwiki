@@ -2,12 +2,9 @@
 title: "Aether Density"
 ---
 
-**Aether density** refers to a standardized grading scale of aethercompression.
+**Aether density** refers to a standardized grading scale of aethercompression as measured by a densimeter. It was invented in 378 at the [[Nordovest Institute]].
 
-- White: low-aether. comparable to background density, even at high pressure
-- Gray: substandard aether density. usually untaxed
-- Blue: standard grade. produced by [[triplex compressors|triplex compressor]]
-- Gold: high grade. used in heavy vehicles, industrial machines, and the [[Northwind Rail]] pipeline.
-- Emerald: extremely high grade. used almost exclusively for long-term storage and certain rituals. restricted license controlled by [[IPRO]].
-
-Densimeters are used to inspect (and tax) cartridges. 
+- Blue is the reference grade. It is the density produced by a [[triplex compressor]] in normal conditions.
+- Gold is high grade. It is produced by larger industrial compressors and replaces previous proprietary standards. For example, the [[Northwind Rail]] pipeline uses Gold 6, formerly known as Ercos C.
+- Emerald is anything at or above Gold 10. It is produced only in [[Qamar]] and [[Kota]] to individual specification.
+- Gray refers to any aether density below blue.
