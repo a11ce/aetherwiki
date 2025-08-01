@@ -6,6 +6,7 @@ title: "Pax Centralis"
 - 202: [[Liara Canal Authority]] is founded.
 - 287: Kota joins, mostly for the purpose of exporting surplus crops.
 - 370: [[Inspector Corps|Liara Canal Authority]] is founded as part of the LCA.
+- 406: [[Ercos]] joins
 - 432: [[Black Air Conflict]].
 
 ercos joins at some point also

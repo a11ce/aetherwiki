@@ -2,4 +2,4 @@
 title: "Kota"
 ---
 
-country in [[Lanteen]]. joined pax in 287 for free grain export. during early era 2, developed refinery tech to synthesize emerald air from a rare catalyst. see [[black air conflict]]
+country in [[Lanteen]]. joined pax in 287 for free grain export. in early era 2, kota discovered a catalyst (found only in the western Kota mountains) able to refine blue air into emerald. they constructed refineries to make use of this. see [[black air conflict]]

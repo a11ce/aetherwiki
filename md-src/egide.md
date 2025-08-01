@@ -2,7 +2,7 @@
 title: "Egide"
 ---
 
-[[Monnais]] PMC. 
+**Egide** (*eh-ZHID*) is a [[Monnais]] PMC. 
 
 Allegedly involved in breaking the [[Lock 19 Blockade]].
 

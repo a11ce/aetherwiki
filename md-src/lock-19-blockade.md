@@ -12,24 +12,26 @@ After the Qime refinery disaster, IRPO activated relief protocols, suspending le
 
 ## Blockade 
 
-Liaran [[sovereigntists|sovereigntism]] led by Nicolas Ducco, part owner of Lock 19, conspired with the captain of Fir to block the entrance to Lock 19. In later criminal trials, they stated that they intended to negotiate for partial levies or some compensation by IPRO, and did not expect any violence. They also stated a desire to demonstrate the sovereignty of Liara but not to actually block relief to Kota.
+Liaran [[sovereigntists|sovereigntism]] led by Nicolas Ducco, part owner of Lock 19, conspired with the captain of the ONC Fir to block the entrance to Lock 19. The Fir dropped its anchor while in the chamber of the lock, refusing to leave when the exit gate was opened. 
+
+In later criminal trials, they stated that they intended to negotiate for partial levies or some compensation by IPRO, and did not expect any violence. They also stated a desire to demonstrate the sovereignty of Liara but not to actually block relief to Kota.
 
 ## Seizure
 
 Two days after the start of the blockade, three teams of soldiers wearing blue IPRO vests seized the two lock 19 control towers and the Fir. 
 
-IPRO does not have a standing militarized division, and these soldiers have not been definitively identified. When interviewed, Ducco claimed that they spoke [[Monnéen|Monnais]] and suggested that they were hired from [[Egide]]. This is disputed by Égide.
+IPRO does not have a standing militarized division, and these soldiers have not been definitively identified. 
 
-Cooperative Liaran engineers were brought in under IPRO guard to operate all locks for the duration of the relief effort.
+Cooperative LCA engineers were brought in under IPRO guard to operate all locks for the duration of the relief effort.
 
 ## Aftermath
 
-IPRO creates [[enforcement team|Ipro]], 20 operators and 4 patrol boats. Half of ET is stationed in Liara.
+IPRO creates [[enforcement team|Ipro]], 20 operators and 4 patrol boats provided by Egide with the intent to train a larger force. Half of IPRO-ET is permanently stationed in Liara.
 
 Criminal prosecution of Ducco and other sovereigntists resulting in forced sale of lock 19, ultimately to [[Pantheon]].
 
-Liaran cabinet votes 5-4 to rescind from closed locks agreement under IPRO military pressure.
-
 ## Alleged Foreign Involvement
 
-It is unclear how the captain of Fir was able to convince his crew to go along with the plan. The ship was an ONC vessel from [[Arkand]] to [[Stolmont]]. The crew was based in arkand.
+It is unclear what motivated the captain and crew of the Fir to go along with this plan. The private intelligence firm Mariposa has alleged that at least some of them were Arkandic Combined Security Syndicate agents posing as ONC sailors.
+
+When interviewed, Ducco claimed that the IPRO soldiers spoke [[Monnéen|Monnais]] and suggested that they were hired from [[Egide]]. This is disputed by Égide.

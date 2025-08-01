@@ -2,4 +2,4 @@
 title: "Alloy Cartel"
 ---
 
-shady cooperation between [[Helix Dynamics]] and [[Arkand]]
+The term **alloy cartel** refers to clandestine collaboration between [[Helix Dynamics]] and [[Arkandic|Arkand]] military corporations.
