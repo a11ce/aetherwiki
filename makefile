@@ -5,13 +5,19 @@ PANDOC_OPTS := -f markdown+fenced_divs+wikilinks_title_before_pipe -t html5 -s \
                -c style.css --lua-filter=wiki.lua
 
 all: clean etc pages check
-.PHONY: all clean clean
+.PHONY: all clean
 
 pages: $(HTMLPAGES)
 	@mkdir -p docs
 
 docs/%.html: md-src/%.md
 	@pandoc $< $(PANDOC_OPTS) -o $@
+
+timeline:
+	lua timeline.lua
+	sort -u auto-timeline.txt -o auto-timeline.txt
+	echo "### This page is automatically generated and may contain mistakes or misinterpretations.\n\n"
+	python3 llm-timeline.py > md-src/meta-timeline.md
 
 etc:
 	cp -r includes/. docs

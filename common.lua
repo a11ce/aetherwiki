@@ -38,4 +38,15 @@ function C.writeBacklinks(backlinks)
 	f:close()
 end
 
+function C.getAllPages()
+	local pages = {}
+	local ls = io.popen("ls -1 md-src/")
+	if ls then
+		for name in ls:lines() do
+			table.insert(pages, C.normalize(name))
+		end
+	end
+	return pages
+end
+
 return C
