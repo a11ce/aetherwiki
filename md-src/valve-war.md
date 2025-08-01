@@ -2,7 +2,7 @@
 title: "Valve War"
 ---
 
-In 713 [[Arkand]] is economically not doing great because [[CRPs|CRP]] make [[skystone]] basically obsolete. Naval syndicate decides to invade [[Lusquo]] and try to capture their seaweed farming market for export to Pax. They frame it as an enforcement action against unauthorized skystone production because Lusquo never formally joined [[IPRO]].
+In 713 [[Arkand]] is economically not doing great because [[CRPs|CRP]] make [[skystone]] basically obsolete. Martime Syndicate decides to invade [[Lusquo]] and try to capture their seaweed farming market for export to Pax. They frame it as an enforcement action against unauthorized skystone production because Lusquo never formally joined [[IPRO]].
 
 This does not work. The [[ONC|Ordossa Navigation Company]] sees it as a setup to block maritime access to [[Laumeri]] and immediately sends its security ships. ONC attempts to shell Arkandic occupying forces but doesn't want to risk civilian casualties and doesn't have the resources for a ground war.
 
