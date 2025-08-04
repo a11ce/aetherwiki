@@ -10,3 +10,7 @@ A refinery in Vosa explodes and Pax mandates a shutdown while [[LCA|liara canal 
 - pax governance is renegotiated to form the modern oversight council
 - constitution is amended to price air by density
 - IPRO waives levies on relief ships (partially leading to [[lock 19 blockade]])
+
+## See also
+
+- [[Emerald circuit]]

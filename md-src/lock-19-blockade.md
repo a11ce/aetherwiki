@@ -34,6 +34,6 @@ Captain and crew of the Fir repatriated to Arkand.
 
 ## Alleged Foreign Involvement
 
-It is unclear what motivated the captain and crew of the Fir to go along with this plan. The private intelligence firm Mariposa has alleged that at least some of them were Arkandic Combined Security Syndicate agents posing as ONC sailors.
+It is unclear what motivated the captain and crew of the Fir to go along with this plan. The private intelligence firm [[Mariposa]] has alleged that at least some of them were Arkandic Combined Security Syndicate agents posing as ONC sailors.
 
 When interviewed, Ducco claimed that the IPRO soldiers spoke [[Monnéen|Monnais]] and suggested that they were hired from [[Egide]]. This is disputed by Egide.

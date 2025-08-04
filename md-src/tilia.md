@@ -2,14 +2,17 @@
 title: "Tilia"
 ---
 
-[[Tilia]] is a country in eastern [[Lanteen]]. [[New Harbor]] (mid-coast) is the capital and [[Ternmouth]] (north-coast) is the largest city.
+**Tilia** is a country located in northern [[Lanteen]]. It borders [[Liara]] to the north, [[Ercos]] to the west, and [[Kota]] and [[Ikara]] to the south. Its capital is [[New Harbor]] and its largest city is [[Ternmouth]].
+
+## History
 
 - [[Liaran Secession]]
 - [[Pax Centralis]]
 - [[Locust War]]
-- [[Coachguard]]
 
-To the east, the great plains of Tilia stretch to the shore. Most of Tilia is sparsely dotted with frontier towns braving the cold of the north or the dusty heat of the south. On the southeastern coast, bustling cities conduct maritime trade and operate trains and convoys to the rest of the Pax.
+## Geography
+
+Most of Tilia is sparsely dotted with frontier farming towns. The eastern coast corridor has several large cities.
 
 - Centralized hub for pax. Western sea is too icy for transit
 - shipbuilding/shipping companies?
@@ -18,3 +21,8 @@ To the east, the great plains of Tilia stretch to the shore. Most of Tilia is sp
 - Farm seaweed for fertilizer
 - Coachguard mercenary company
 - Cobra weaponsmiths
+
+## Notable groups
+
+- [[Coachguard]]
+- [[Fox River Shipyard]]
