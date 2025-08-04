@@ -2,6 +2,8 @@
 title: "Arkand"
 ---
 
+![Flag of Arkand](image/arkand_peace.png){.fig-right}
+
 **Arkand**, officially the **Dominion of Arkand**, is a country located in southern [[Itaan]]. It borders [[Delsin]] to the northwest and [[Qamar]] to the north. 
 
 ## History

@@ -2,6 +2,8 @@
 title: "Tilia"
 ---
 
+![Flag of Tilia](image/tilia.png){.fig-right}
+
 **Tilia** is a country located in northern [[Lanteen]]. It borders [[Liara]] to the north, [[Ercos]] to the west, and [[Kota]] and [[Ikara]] to the south. Its capital is [[New Harbor]] and its largest city is [[Ternmouth]].
 
 ## History
