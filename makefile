@@ -1,8 +1,8 @@
 MDSOURCES :=  $(wildcard md-src/*.md) $(wildcard md-src/**/*.md)
 HTMLPAGES := $(MDSOURCES:md-src/%.md=docs/%.html)
 
-PANDOC_OPTS := -f markdown+fenced_divs+wikilinks_title_before_pipe -t html5 -s \
-               -c style.css --lua-filter=wiki.lua
+PANDOC_OPTS := -f markdown+fenced_divs+wikilinks_title_before_pipe+implicit_figures+link_attributes -t html5 -s \
+               -c style.css --lua-filter=wiki.lua 
 
 all: clean etc pages check
 .PHONY: all clean
