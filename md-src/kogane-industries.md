@@ -7,5 +7,3 @@ title: "Kogane Industries"
 ### Era IV
 
 Kogane led the [[universal cassette protocol]] commitee and takes royalties.
-
-Recap Kogane (valve works/microfabrication), especially pre-cassettes.

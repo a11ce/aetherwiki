@@ -1,7 +1,18 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 body {
-	width: 70%;
-	margin-left: auto;
-	margin-right: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+article {
+  flex: 1 0 auto;
+  width: 70%;
+  margin: 0 auto;
 }
 
 figure:has(img.fig-right) {
@@ -24,7 +35,17 @@ img.fig-right {
 }
 
 figure:has(img.fig-right) figcaption {
-  padding-left: 0.5em; 
+  padding-left: 0.5em;
   padding-top: 0.2em;
   padding-bottom: 0.2em;
+}
+
+footer {
+  flex-shrink: 0;
+  align-self: center;
+  width: 70%;
+  margin: 3em auto 1em;
+  flex-shrink: 0;        
+  border-top: 1px solid black;
+  padding: 1em;
 }
