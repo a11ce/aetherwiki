@@ -2,8 +2,29 @@
 title: "Index"
 ---
 
-## Countries
+<style>
+.cols {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10em, 1fr));
+  gap: 2em;
+  margin: 0;
+  padding: 0;
+}
 
+.col {
+  break-inside: avoid;
+}
+
+h2 {
+  margin-bottom: 0px;
+}
+
+</style>
+
+::: {.cols}
+
+::: {.col}
+## Countries
 - [[Arkand]]
 - [[Delsin]]
 - [[Ercos]]
@@ -17,7 +38,9 @@ title: "Index"
 - [[Shinko]]
 - [[Stolmont]]
 - [[Tilia]]
+::: 
 
+::: {.col}
 ## Groups and Companies
 
 - [[Acuto]]
@@ -46,7 +69,9 @@ title: "Index"
 - [[Starlight Phosgraph Union|Starlight]]
 - [[Stratis Corporation]]
 - [[Zalo Technical Kyro]]
+:::
 
+::: {.col}
 ## Events
 
 - [[Black Air Conflict]]
@@ -63,7 +88,9 @@ title: "Index"
 - [[Triplex Crisis]]
 - [[Valve War]]
 - [[Wizard Revolution]]
+:::
 
+::: {.col}
 ## Locations
 
 - [[Amberlee]]
@@ -79,7 +106,9 @@ title: "Index"
 - [[Montrevieux]]
 - [[New Harbor]]
 - [[Ternmouth]]
+:::
 
+::: {.col}
 ## Technology
 
 - [[Air-Pak]]
@@ -105,3 +134,5 @@ title: "Index"
 - [[Sneal]]
 - [[Sovereigntism]]
 - [[Wizard]]
+:::
+:::

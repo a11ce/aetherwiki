@@ -49,3 +49,8 @@ footer {
   border-top: 1px solid black;
   padding: 1em;
 }
+
+ul {
+  padding-left: 10px;
+  margin-top: 0px;
+}
