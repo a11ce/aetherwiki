@@ -1,6 +1,6 @@
 ---
 title: "Itaan"
-tag: Location
+tag: Locations
 ---
 
 **Itaan** is a continent in the eastern hemisphere. It contains part of [[Cerevis]] and the territories of [[Monnais]], [[Delsin]], [[Qamar]], and [[Arkand]].

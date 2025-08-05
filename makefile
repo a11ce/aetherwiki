@@ -8,10 +8,13 @@ PANDOC_OPTS := -f markdown+fenced_divs+wikilinks_title_before_pipe+implicit_figu
                --include-after-body=footer.html
 
 all: clean etc pages check
-.PHONY: all clean
+.PHONY: all clean index
 
-pages: $(HTMLPAGES)
+pages: index $(HTMLPAGES)
 	@mkdir -p docs
+
+index:
+	python3 index.py > md-src/index.md
 
 docs/%.html: md-src/%.md
 	@pandoc $< $(PANDOC_OPTS) -o $@

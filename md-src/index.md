@@ -74,6 +74,7 @@ title: "Index"
 - [[International Pressure Regulation Organization|ipro.md]]
 - [[Liara Canal Authority|liara-canal-authority.md]]
 - [[Nordovest Institute|nordovest-institute.md]]
+- [[Presidium Guard|presidium-guard.md]]
 - [[Starlight Phosgraph Union|starlight.md]]
 - [[Stratis Corporation|stratis-corporation.md]]
 - [[Wake Society|wake-society.md]]
@@ -96,7 +97,6 @@ title: "Index"
 - [[Northwind Rail|northwind-rail.md]]
 - [[Ordossa Navigation Company|ordossa-navigation-company.md]]
 - [[Pantheon|pantheon.md]]
-- [[Presidium Guard|presidium-guard.md]]
 - [[Roka|roka.md]]
 - [[SikuTech Aeromechanics|sikutech.md]]
 - [[Suyama|suyama.md]]
@@ -110,6 +110,7 @@ title: "Index"
 - [[Delsin Station|delsin-station.md]]
 - [[Etalameri|etalameri.md]]
 - [[Highwater|highwater.md]]
+- [[Itaan|itaan.md]]
 - [[Kylmeri|kylmeri.md]]
 - [[Lanteen|lanteen.md]]
 - [[Laumeri|laumeri.md]]
@@ -157,11 +158,6 @@ title: "Index"
 - [[Liaran Canal Locks|liaran-canal-locks.md]]
 - [[Phi|phi.md]]
 - [[Sneal|sneal.md]]
-:::
-
-::: {.col}
-## Location
-- [[Itaan|itaan.md]]
 :::
 
 

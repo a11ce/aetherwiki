@@ -9,7 +9,7 @@ The **Lock 19 Blockade** (also known as the **Lock 19 Protest**) was a canal blo
 
 todo talk about the [[black air conflict]] and Qime
 
-After the Qime refinery disaster, IRPO activated relief protocols, suspending levies on air, food, and construction materials bound for affected regions in [[Kota]]. 
+After the Qime refinery disaster, IPRO activated relief protocols, suspending levies on air, food, and construction materials bound for affected regions in [[Kota]]. 
 
 ## Blockade 
 
