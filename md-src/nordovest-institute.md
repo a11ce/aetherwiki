@@ -1,5 +1,6 @@
 ---
 title: "Nordovest Institute"
+tag: Groups
 ---
 
 university in northwest [[tilia]], on the southern bank of [[cormorant strait]]. 

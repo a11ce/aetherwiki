@@ -1,5 +1,6 @@
 ---
 title: "Arkand"
+tag: Countries
 ---
 
 ![Flag of Arkand](image/arkand_peace.png){.fig-right}

@@ -1,5 +1,6 @@
 ---
 title: "Goldwind Agricultural Cooperative"
+tag: Groups
 ---
 
 **Goldwind Agricultural Cooperative** is a [[Tilian|Tilia]] farmer cooperative specializing in the production of crop dusters equipment from used low-grade bulk cartridges.

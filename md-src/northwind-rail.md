@@ -1,5 +1,6 @@
 ---
 title: "Northwind Rail"
+tag: Companies
 ---
 
 **Northwind Rail** is an [[Ercosian|Ercos]] transport company with lines across all Pax nations. 

@@ -1,5 +1,6 @@
 ---
 title: "Emerald Circuit"
+tag: Events
 ---
 
 The **Emerald Circuit** was a smuggling and fraud operation that began during the [[Black Air Conflict]]. The ring was orchestrated by ONC Deputy Captain Lucia Voroshin.

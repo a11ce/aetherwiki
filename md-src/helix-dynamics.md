@@ -1,5 +1,6 @@
 ---
 title: "Helix Dynamics Group"
+tag: Companies
 ---
 
 **Helix Dynamics Group** is a corporation in [[Monnais]].

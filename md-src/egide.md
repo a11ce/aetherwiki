@@ -1,5 +1,6 @@
 ---
 title: "Egide"
+tag: Companies
 ---
 
 **Egide** (*eh-ZHEED*) is a [[Monnais]] PMC. 

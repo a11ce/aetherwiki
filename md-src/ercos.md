@@ -1,5 +1,6 @@
 ---
 title: "Ercos"
+tag: Countries
 ---
 
 ![Flag of Ercos.](image/ercos.png){.fig-right}

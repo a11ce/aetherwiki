@@ -1,5 +1,6 @@
 ---
 title: "Valve War"
+tag: Events
 ---
 
 In 713 [[Arkand]] is economically not doing great because [[CRPs|CRP]] make [[skystone]] basically obsolete. Martime Syndicate decides to invade [[Lusquo]] and try to capture their seaweed farming market for export to Pax. They frame it as an enforcement action against unauthorized skystone production because Lusquo never formally joined [[IPRO]].

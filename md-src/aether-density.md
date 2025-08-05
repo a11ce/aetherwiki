@@ -1,5 +1,6 @@
 ---
 title: "Aether Density"
+tag: Technology
 ---
 
 **Aether density** refers to a standardized grading scale of aethercompression as measured by a densimeter. It was invented in 378 at the [[Nordovest Institute]].

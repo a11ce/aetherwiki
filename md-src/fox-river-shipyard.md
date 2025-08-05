@@ -1,5 +1,6 @@
---
+---
 title: "Fox River Shipyard"
+tag: Companies
 ---
 
 The **Fox River Shipyard** is a large [[Tilian|tilia]] royal shipyard two miles south of [[New Harbor]].

@@ -1,5 +1,6 @@
 ---
 title: "Lock 19 Blockade"
+tag: Events
 ---
 
 The **Lock 19 Blockade** (also known as the **Lock 19 Protest**) was a canal blockade in 431 by Liaran sovereigntists over perceived [[IPRO]] overreach in the wake of the [[Qime refinery disaster|kota refinery disasters]].

@@ -1,5 +1,6 @@
 ---
 title: "Cerevisiaen Pellet Compass"
+tag: Politics
 ---
 
 The **Cerevisiaen pellet compass** is a sociopolitical and militaristic device called "the next necessary development of [[Cerevis]]" by Cerevisaen leader Scamdalf Drongo, who first introduced the concept in 568 in his Handbook for Revolutionary Warfare. Following his claim that war is "logical and inevitable", the pellet compass was intended to determine the maximum resistance offered by revolutionary tribes seeking to become incorporated into the macroeconomic totality of the Cerevis movement. The name derives from the unique militaristic procedure proposed by Drongo based on the covert operations possible with [[airguns|airgun]] and airborne pellets.

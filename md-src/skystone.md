@@ -1,5 +1,6 @@
 ---
 title: "Skystone"
+tag: Technology
 ---
 
 **Skystone** is an iron alloy that hardens when exposed to aethercompressed air. It is used to make [[aether storage]]

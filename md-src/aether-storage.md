@@ -1,5 +1,6 @@
 ---
 title: "Aether Storage"
+tag: Technology
 ---
 
 Various containers for compressed aether made of [[skystone]]

@@ -1,5 +1,6 @@
 ---
 title: "Black-Air Conflict"
+tag: Events
 ---
 
 failed 10-week [[kota]] rebellion in 428. Kota feels shortchanged bc they've become a valuable producer of emerald air (only producer other than [[Qamar]]) but [[Pax|pax centralis]] refuses to pay them more for it (the initial payment schedule treats all regulated air as blue). 

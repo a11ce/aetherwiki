@@ -1,5 +1,6 @@
 ---
 title: "Ikara"
+tag: Countries
 ---
 
 **Ikara** is a country located in southeastern [[Lanteen]]. It borders [[Tilia]] to the north and [[Kota]] to the west. Ikara gained independence from [[Arkand]] after the [[Corsair Uprising]].

@@ -1,5 +1,6 @@
 ---
 title: "Locust War"
+tag: Events
 ---
 
 The **Locust War** was a pest management campaign conducted by the [[Goldwind Agricultural Cooperative|goldwind]] between 472 and 490 with the objective of eradicating locust swarms in [[Tilia]].

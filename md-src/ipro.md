@@ -1,5 +1,6 @@
 ---
 title: "International Pressure Regulation Organization"
+tag: Groups
 ---
 
 IPRO is a [[Pax|pax centralis]]-based international regulatory agency founded in 236 after two compressor explosions were linked to mislabelled pressure vessels. 

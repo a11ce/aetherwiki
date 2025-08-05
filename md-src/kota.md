@@ -1,5 +1,6 @@
 ---
 title: "Kota"
+tag: Countries
 ---
 
 ![Flag of Kota](image/kota.png){.fig-right}

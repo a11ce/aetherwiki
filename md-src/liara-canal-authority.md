@@ -1,5 +1,6 @@
 ---
 title: "Liara Canal Authority"
+tag: Groups
 ---
 
 The **Liara Canal Authority** is a state-owned corporation in [[Liara]].

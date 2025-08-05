@@ -1,5 +1,21 @@
 ---
 title: "Coachguard"
+tag: Companies
 ---
 
-[[Tilia|Tilia]] mercenaries specializing in convoy escort and airborne response. Regularly hired by [[Northwind Rail]].
+**Coachguard** is an international logistics security company specializing in convoy escort, route protection, and airborne rapid response. It is headquartered in [[Ternmouth]].
+
+## History 
+
+Coachguard was founded as the Coach and Rail Guard in 180 as a loose organization of mercenaries in Tilia available for hire from a central office. It quickly became popular among transport drivers, and won a large contract from [[Northwind Rail]] in 218. It incorporated as Coachguard in 224.
+
+Coachguard supplied soldiers during the [[Locust War]] as Air-Pak operators. In 490, they were given half of Goldwind's Air-Pak stock and assigned them to [[Coachguard Nord]].
+
+## Organization
+
+Coachguard operates several divisions:
+
+- Coachguard Rail is specfically tasked with Northwind Rail security.
+- Coachguard Aviation operates light aircraft.
+- Coachguard Gold is an unadvertised direct action division.
+- Coachguard Nord is a Monnais subsidiary. It commonly runs security for [[Boreal Ice Cutters]].

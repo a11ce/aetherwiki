@@ -1,5 +1,6 @@
 ---
 title: "Sovereigntism"
+tag: Politics
 ---
 
 Sovereigntism is a political position prioritizng national sovereignty over international governance.

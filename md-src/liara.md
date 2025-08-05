@@ -1,5 +1,6 @@
 ---
 title: "Duchy of Liara"
+tag: Countries
 ---
 
 ![Flag of Liara.](image/liara.png){.fig-right}

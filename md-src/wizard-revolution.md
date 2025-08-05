@@ -1,5 +1,6 @@
 ---
 title: "Wizard Revolution"
+tag: Events
 ---
 
 The **Wizard Revolution** was a period of unrest and political change lasting from 44 to 52 in [[Monnais]].

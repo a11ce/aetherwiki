@@ -1,5 +1,6 @@
 ---
 title: "Corsair Uprising"
+tag: Events
 ---
 
 278-284. [[Ikaran|Ikara]] war of independence from [[Arkand]].

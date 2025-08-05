@@ -1,5 +1,6 @@
 ---
 title: "Bloodsails"
+tag: Groups
 ---
 
 The **Bloodsails** are a loose gang of pirates who broke away from [[Ikara]] in the 280s, after the [[Corsair Uprising]].
