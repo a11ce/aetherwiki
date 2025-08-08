@@ -7,9 +7,13 @@ The **Wake Society** was a [[Kogane]] maritime-traditionalist political and mili
 
 ## Notable members
 
+### Needle Circle (NKL employees)
+
 - Ranmaru Ito: Leader
 - Naho Okabe: Ferry pilot
-- Motoshige Kita: Naval officer
 - Hina Teruoka: Phosgraph operator
-- Keiko Shun: Delsin paramilitary chief
 
+### Green Triangle Division (CDS sailors and Delsin paramilitary)
+
+- Motoshige Kita: Naval officer
+- Keiko Shun: Delsin paramilitary chief
