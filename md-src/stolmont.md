@@ -3,9 +3,7 @@ title: "Stolmont"
 tag: Countries
 ---
 
-**Stolmont** is a country located in the [[Mirid Archipelago]]. It is known for being the origin of [[phosgraphs|phosgraph]], and is the headquarters of the [[Starlight Phosgraph Union|starlight]]. Its capital is [[Lantog]]. It administers [[Delsin]] as an overseas autonomous region. 
-
-It is also known for its watchmaking industry.
+**Stolmont** is a country located in the [[Mirid Archipelago]]. It is known for being the origin of [[phosgraphs|phosgraph]] and for its watchmaking industry. Its capital is [[Tesser]]. It administers [[Delsin]] as an overseas autonomous region. 
 
 ## History
 

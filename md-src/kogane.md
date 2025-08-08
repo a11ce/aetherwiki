@@ -3,7 +3,7 @@ title: "Kogane"
 tag: Countries
 ---
 
-![Flag of Kogane](image/shinko.png){.fig-right}
+![Flag of Kogane](image/kogane.png){.fig-right}
 
 **Kogane** is an island nation occupying the kogane Archipelago in [[Laumeri]]. Historically a maritime trading power with diplomatic missions across the world, Kogane withdrew from traditional international diplomacy after the [[Nine Knot War]]. 
 
@@ -13,7 +13,7 @@ tag: Countries
 
 Kogane shipbuilders and captains founded [[Delsin Station]] as a repair and transport hub.
 
-The Nine Knot Line, a government-owned ferry and mail service, runs between [[Kogane]], [[Delsin]], and [[Ikara]], and [[Stolmont]].
+The Nine Knot Line, a government-owned ferry and mail service, ran between [[Kogane]], [[Delsin]], and [[Ikara]], and [[Stolmont]].
 
 ### Nine Knot War and Envoy Period
 
@@ -27,7 +27,7 @@ Kogane is a parliamentary republic in which royal houses serve as membership mar
 
 Each island has its own civil administration which handles local services. Representative divisions are designated to create equal population and are not coterminous with islands.
 
-Coalitions in parliament are fluid. Common political issues include cooperation with IPRO, envoy autonomy, and arts funding. The [[Wake Society]] continues to operate as a fringe movement, consistently winning a few seats.
+Coalitions in parliament are fluid. Common political issues include cooperation with IPRO, envoy autonomy, and arts funding. [[Maritime traditionalism]] is effectively a defunct ideology in Kogane following the disastrous Nine Knot War, and the [[Wake Society]] is explicitly banned as a political party.
 
 ## Notable Envoys
 
@@ -35,6 +35,7 @@ Coalitions in parliament are fluid. Common political issues include cooperation 
 - [[Nokari]]
 - [[Roka Signal House|roka]]
 - [[Suyama]]
+- [[Hoshizawa Time & Lens|hoshizawa]]
 
 ## Military
 

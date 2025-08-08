@@ -3,12 +3,26 @@ title: "Pax Centralis"
 tag: Politics
 ---
 
-The **Pax Centralis** is a supranational economic and military alliance founded in 157. Pax began as a free trade agreement between [[Liara]] and [[Tilia]] after the [[Liaran Secession]]. and later expanded to include [[Kota]] (in 287) and [[Ercos]] (in 406).
+The **Pax Centralis** is a supranational economic and military alliance founded in 157. It began as a free trade agreement between [[Liara]] and [[Tilia]] and has expanded to include [[Kota]] and [[Ercos]].
 
-The [[Liara Canal Authority]] and [[International Pressure Regulation Organization|IPRO]] are both incorporated under Pax jurisdiction.
 
-[[Kota]] joined Pax in 287 in order to export surplus crops to Tilia without tariffs. A failed renegotiation regarding export pricing of [[Vosanite]]-refined air and multiple refinery disasters lead to the [[Black Air Conflict]] in 428.
+## Governance
 
-Piracy and raids from Cerevis in the 390s lead to the Cormorant Security Protocol in 400, giving Pax government the ability to requisition and command the militaries of its member states.
+The authority of Pax is divided into four offices: Diplomacy, Industry, Culture, and State. The heads of the offices are elected by delegates from member states every two years.
 
-[[Ercos]] joined in 406 after some really bad piracy happens or something.
+Since 433, an Oversight Council of 3 representatives from each member state supervise the application of Pax regulations.
+
+Both the [[Liara Canal Authority]] and the [[International Pressure Regulation Organization|ipro]] are considered to represent the authority of Pax despite being incorporated as state-owned firms in Liara and Tilia respectively.
+
+Since 400, the Cormorant Security Protocol authorizes Pax to request and command member military assets for defense and anti-piracy patrols. The Diplomacy and State offices jointly administer CSP operations.
+
+## Membership timeline
+
+- 157: Founded following the [[Liaran Secession]]
+- 287: [[Kota]] joins in order to export surplus crops to Tilia without tariffs.
+- 406: [[Ercos]] joins for CSP protection from [[bloodsail|bloodsails]] attacks.
+
+## See also
+
+- [[Black Air Conflict]]
+- [[Sovereigntism]]

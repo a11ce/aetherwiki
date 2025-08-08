@@ -13,6 +13,7 @@ article {
   flex: 1 0 auto;
   width: 70%;
   margin: 0 auto;
+  line-height: 1.4;
 }
 
 figure:has(img.fig-right) {

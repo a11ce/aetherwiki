@@ -15,7 +15,7 @@ The Governors of the ONC initially considered breaking the contract unilaterally
 
 ### Initial steps
 
-One week after the Vosa refinery explosion, Captain Voroshin privately contracted the [[Arkandic Maritime Union|Arkand]] to install false bulkheads in four ships under her command: ONCF Ostro, ONC Ponente, ONC Levante, and ONC Tramontane.
+One week after the [[Qime refinery disaster|kota refinery disasters]], Captain Voroshin privately contracted the [[Arkandic Maritime Union|Arkand]] to install false bulkheads in four ships under her command: ONCF Ostro, ONC Ponente, ONC Levante, and ONC Tramontane.
 
 ### Procedure
 
@@ -30,7 +30,7 @@ One week after the Vosa refinery explosion, Captain Voroshin privately contracte
 
 During the mandated refinery shutdown immediately after the Vosa explosion, IPRO began to keep exact counts of emerald barrels leaving Kota from existing stockpiles to ensure that no illicit refinement was taking place. After the shutdown order was lifted, IPRO continued to closely monitor production and export in case of longer term unrest in Kota or secession from the Pax Centralis. This was done in secret so as not to escalate tensions in the region.
 
-As part of its normal duties, IPRO also kept track of emerald air entering the ONC fuel depot in Marisa. This led to a discrepancy in accounting: 4-9% of the emerald barrels being imported by the ONC each month appeared to be coming from somewhere other than Kota. This was initially assumed to be a clerical error caused by the general chaos of the Black Air Conflict, but by 430 the IPRO Statistical Office was confident that Kota exports were being completely counted and an audit request was sent to the Enforcement Team.
+As part of its normal duties, IPRO also kept track of emerald air entering the ONC fuel depot in Marisa. This led to a discrepancy in accounting: 4-9% of the emerald barrels being imported by the ONC each month appeared to be coming from somewhere other than Kota. This was initially assumed to be a clerical error caused by the general chaos of the Black Air Conflict, but by 431 the IPRO Statistical Office was confident that Kota exports were being completely counted and an audit request was sent to the newly-founded Enforcement Team.
 
 ### IPRO-ET investigation
 
@@ -84,4 +84,4 @@ Egide was sanctioned by the Soeur-Verron court for perjury in filing a warrant r
 
 The Tramontane was refitted as an inspection and tactical training vessel at the IPRO dock in Marisa. The Ostro, Ponente, and Levante were stripped of their false bulkheads by IPRO engineers and subsequently auctioned, with proceeds given to the ZTK.
 
-All ONC officers with knowledge of the scheme were exiled from the ONC. Two of them were later discovered to have been working for the Arkand Combined Security Syndicate while serving as ONC officers. They remain wanted for further questioning in connection with ACSS involvement in the [[Lock 19 Blockade]].
+All ONC officers with knowledge of the scheme were exiled from the ONC. Two of them were later discovered to have been working for the [[Arkand Combined Security Syndicate|Acss]] while serving as ONC officers. They remain wanted for further questioning in connection with ACSS involvement in the [[Lock 19 Blockade]].

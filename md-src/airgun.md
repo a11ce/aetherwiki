@@ -3,4 +3,6 @@ title: "Airgun"
 tag: Technology
 ---
 
-airguns are the main small-arms of all eras. powered by [[cartridges|aether storage]] in era 2 and later, bolt action with internal reservoir before.
+An **airgun** is a device that propels a projectile, such as a pellet or spike, using air pressure. Early airguns were manually pressurized before each shot by a mechanism such as a level or bolt. Since the early 300s, most airguns run on replaceable multi-shot [[cartridges|aether storage]]. 
+
+Notable airgun manufacturers include [[Nokari]] and Cobra Armaments.

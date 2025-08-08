@@ -3,6 +3,8 @@ title: "Monnais"
 tag: Countries
 ---
 
+![Flag of Monnais](image/monnais.png){.fig-right}
+
 **Monnais**, officially the **Monnais Republic**, is a country located in northern [[Itaan]]. It borders [[Cerevis]] to the north, [[Delsin]] to the southwest and [[Qamar]] to the south. Its capital is [[Montrevieux]].
 
 ## History
@@ -24,4 +26,3 @@ As a legacy of the extensive system of royal titles in use before the Wizard Rev
 - [[helix dynamics]]
 - [[clairon]]
 - [[boreal ice cutters]]
-

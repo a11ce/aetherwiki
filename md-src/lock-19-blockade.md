@@ -9,7 +9,7 @@ The **Lock 19 Blockade** (also known as the **Lock 19 Protest**) was a canal blo
 
 todo talk about the [[black air conflict]] and Qime
 
-After the Qime refinery disaster, IPRO activated relief protocols, suspending levies on air, food, and construction materials bound for affected regions in [[Kota]]. 
+IPRO first activated relief protocols after the Qime disaster in 428, suspending levies on air, food, and construction materials bound for affected regions. These measures were expanded across western Kota following the Vosa explosion in 431.
 
 ## Blockade 
 
@@ -21,7 +21,7 @@ In later criminal trials, they stated that they intended to negotiate for partia
 
 Two days after the start of the blockade, three teams of soldiers wearing blue IPRO vests seized the two lock 19 control towers and the Fir. 
 
-IPRO does not have a standing militarized division, and these soldiers have not been definitively identified. 
+At the time, IPRO did not have a standing militarized division, and these soldiers have not been definitively identified. 
 
 Cooperative LCA engineers were brought in under IPRO guard to operate all locks for the duration of the relief effort.
 
@@ -35,6 +35,6 @@ Captain and crew of the Fir repatriated to Arkand.
 
 ## Alleged Foreign Involvement
 
-It is unclear what motivated the captain and crew of the Fir to go along with this plan. The private intelligence firm [[Mariposa]] has alleged that at least some of them were Arkandic Combined Security Syndicate agents posing as ONC sailors.
+It is unclear what motivated the captain and crew of the Fir to go along with this plan. The private intelligence firm [[Mariposa]] has alleged that at least some of them were [[Arkandic Combined Security Syndicate|ACSS]] agents posing as ONC sailors.
 
 When interviewed, Ducco claimed that the IPRO soldiers spoke [[Monnéen|Monnais]] and suggested that they were hired from [[Egide]]. This is disputed by Egide.
