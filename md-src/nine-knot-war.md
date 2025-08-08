@@ -15,7 +15,7 @@ By 228, many radical members of the Wake Society had organized into activist or 
 
 Ito was also close friends with Motoshige Kita, a naval officer and leader of the Green Triangle Division, a secret cell of Wake sympathist military officers and covert foreign operatives. Kita was involved in smuggling weapons to Delsin, where a Wake Society paramilitary wing was being formed by lawyer Keiko Shun.
 
-## Lantong Plaza Incident
+### Lantong Plaza Incident
 
 On the evening of 228.2.27, Ito and Okabe stole the ferry NK Marten docked in [[Delsin Station]] and sailed for [[Tesser]], the capital city of Stolmont. They intended to dock alongside Lantong Plaza without authorization, and for Ito to read a statement in support of maritime-traditionalism. They had both planned to be arrested by the Stolmont Security Office, and had instructed Teruoka to disseminate pamphlets to Wake Society members discussing the plan and its motivations. 
 
@@ -27,18 +27,18 @@ The Stolmont Security Office declared a provisional state of emergency, believin
 
 The respond-to segment of the phosgraph indicated that a response to the message should be sent at noon on 2.30 to a tower at a height of 45 meters at standard maritime position 3 relative to the long-range tower at Delsin Station. Based on the tower height and positions, this would be understood by Kogane to refer to a warship blockading Delsin Station.
 
-## Search of NK Sable
+### Initial blockade and search of NK Sable
 
 On 2.29, the SSO fleet established a cordon off of Delsin Station. Incoming ships were stopped and boarded, and a landing party from the SSO Orchid prepared to seize the phosgraph tower by force if necessary. Before they left, the Orchid intercepted the NK Sable en route to Delsin. A search party boarded the Sable and found two crates of [[airguns|airgun]] labeled as a commercial shipment to Keiko Shun. All NK personnel on board were arrested and the phosgraph was amended to include a demand for an explanation of this shipment in addition to the Lantong Plaza attack. The NK Sable was piloted to shore by SSO soldiers who sent the phosgraph from the ONC-owned tower without incident.
 
-## Kogane declaration of war
+## Course of the war
 
 Hina Teruoka received the phosgraph at a Nine Knot relay office in Veshu. In later testimony, she stated that she interpreted the request for information on "the occurrence at Lantong" as pertaining to the successful execution of the planned demonstration and omitted that segment in her transcription per orders from Ito. She forwarded the blockade notice and weapons seizure report to the Kogane cabinet through a courier.
 
 
 The cabinet convened an emergency session that night. Wake-aligned representatives, most unaware of the smuggling plot, argued that the SSO accusation of weapons found on a Nine Knot Line ferry were fabricated as a pretext for escalation after the peaceful actions of Ito and Okabe, and that a declaration of war was justified in defense of Delsin Station. The Internationalist Bloc introduced a resolution instructing the Ministry of Foreign Correspondence to send an envoy ship to the Delsin blockade line to discuss the situation. This resolution failed, and the legislature fell into a stalemate. Under pressure from public Wake Society demonstrations and a deadline to respond to the SSO phosgraph, five Internationalist delegates endorsed the war resolution. Kogane officially declared war on Stolmont in the early hours of 2.30 and tasked the Coastal Defense Service with breaking the blockade.
 
-## Green Triangle Division covert evacuation plot
+### Green Triangle Division covert evacuation plot
 
 While observing the preparations of the CDS, Motoshige Kita realized that Kogane did not have enough heavy warships to break the blockade by brute force. He tried to convince CDS admirals of this, but failed when he was unable to explain his estimates (from Green Triangle operatives in Stolmont) of the strength of the SSO naval force. Fearing for the citizens of Delsin Station, Kita and the GTD began an unauthorized evacuation campaign.
 
@@ -46,7 +46,7 @@ Using their positions within the CDS and access to harbor registries, GTD office
 
 The second ship was piloted by Che Mizu, a seaweed farmer originally from Delsin. She successfully rescued 70 people from Delsin without incident and returned towards Delsin Station for a second run. On approach, she was intercepted by the cutter SSO Lilac and ran aground attempting to evade. She was captured along with her crew and interrogated. Refusing to reveal the existance of the Green Triangle Division, she told the SSO that she was acting on behalf of the Kogane government.
 
-## Naval operations
+### CDS naval operations
 
 The first attempt to break the cordon in late 228 saw six CDS gunboats attack an SSO patrol, consisting of the SSO Daffodil and SSO Aster, just south of the Delsin Station under heavy fog. The CDS Cape Minaro fired first, punching a hole in the Aster's port side. The Daffodil responded, cutting down the Cape Minaro's foremast and disabling its steering linkage. The Daffodil moved in to board but the SSO marines were forced back by concentrated airgun fire from the Cape Minaro's crew. The Aster withdrew north. The CDS gunboats surrounded the Daffodil, and a shot from the CDS Yorimatsu struck a pressurized magazine causing a catastrophic explosion. The Daffodil sank with all hands. The CDS fleet withdrew with the Cape Minaro in tow.
 
@@ -56,7 +56,7 @@ Through late 229 and early 230, the CDS attempted surprise attacks during new mo
 
 Despite some successful operations, Kogane's logistics were strained. Repair yards reported shortages of everything from propellor blades to pressure vessels, and crews balked at repeated sorties in low-visibility conditions against a clearly superior enemy. The SSO, for its part, shifted from consistent patrol routes to layered zones reaching well away from Delsin, supported by searchlight balloons and fast attack craft.
 
-## Mediation attempts by lighthouse and port guilds
+### Mediation attempts by lighthouse and port guilds
 
 The lighthouse and port guilds are professional societies of lighthouse keepers, harbor pilots, and dockworkers organized under Stolmont law. They elect delegates to the House of Isles, a specialized political body that must assent to laws and emergency measures governing maritime operations. Historically, the House has a reputation as a neutral proponent of civilian well-being even during times of conflict. In 230.11, the Delsin Municipal Council petitioned the House request a mechanism for inspected maritime deliveries, noting that overland routes kept the city fed but could not sustain commercial activity or heavy cargo.
 
