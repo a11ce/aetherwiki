@@ -98,6 +98,7 @@ title: "Index"
 - [[Northwind Rail|northwind-rail.md]]
 - [[Ordossa Navigation Company|ordossa-navigation-company.md]]
 - [[Pantheon|pantheon.md]]
+- [[Pax Marshals Bureau|pax-marshals-bureau.md]]
 - [[Petrel Aerostatics|petrel.md]]
 - [[Roka|roka.md]]
 - [[SikuTech Aeromechanics|sikutech.md]]
@@ -119,6 +120,7 @@ title: "Index"
 - [[Mirid Archipelago|mirid-archipelago.md]]
 - [[Montrevieux|montrevieux.md]]
 - [[New Harbor|new-harbor.md]]
+- [[Nu Ayzen|nu-ayzen.md]]
 - [[Roclair|roclair.md]]
 - [[Ternmouth|ternmouth.md]]
 - [[Tesser|tesser.md]]
@@ -126,10 +128,10 @@ title: "Index"
 
 ::: {.col}
 ## Technology
+- [[Aeromechanic Vehicle|aeromech.md]]
 - [[Aether Density|aether-density.md]]
 - [[Aether Storage|aether-storage.md]]
 - [[Aetherpower|aetherpower.md]]
-- [[Air-Pak|air-pak.md]]
 - [[Airgun|airgun.md]]
 - [[Cassette|cassette.md]]
 - [[Cyclic Repressurizing Engine|crp.md]]

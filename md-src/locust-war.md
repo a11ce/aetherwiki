@@ -3,7 +3,9 @@ title: "Locust War"
 tag: Events
 ---
 
-The **Locust War** was a pest management campaign conducted by the [[Goldwind Agricultural Cooperative|goldwind]] between 472 and 490 with the objective of eradicating locust swarms in [[Tilia]].
+![M5 Albatross operated by Goldwind in flight over Tilia](image/albatross.png){.fig-right}
+
+The **Locust War** was a pest management campaign conducted by the [[Goldwind Agricultural Cooperative|goldwind]] between 472 and 485 with the objective of eradicating locust swarms in [[Tilia]].
 
 ## Background
 
@@ -21,14 +23,14 @@ This timeline was cut shorter as it soon became evident that even the combined c
 
 The death of Curtis Claire turned the crisis into a war. Goldwind had already taken on significant loans, but the risk of permanently losing arable land justified ever-increasing debt. The cooperative purchased 90 [[M5 Albatross|Clairon]] high-altitude airlifters, able to safely overfly swarms that would be impenetrable by Cranes. In 478, having exhausted all other funding sources, three farmers [[conspired to sell damaged Cranes to Ikara|Crane Affair]], violating a Pax embargo.
 
-In 479, [[Greyhound]] completed their development of the [[Air-Pak]], a pressurized iron suit able to run on gray-grade canisters. It was quickly discovered that Air-Paks offered adequate protection against locusts, and Goldwind purchased the entire first production run (supported by [[IPRO]], who finally saw an end to the crisis in sight). Existing pilots, having been trained to avoid swarms at all costs, were unwilling to wear the Air-Paks into overrun territory even after watching their commanding officers return safely from doing the same. An agreement was made with [[Coachguard]] to supply soldiers in exchange for half of the stock of Air-Paks.
+In 477, [[Greyhound]] completed their development of the [[aeromech]]. It was quickly discovered that aeromechs offered adequate protection against locusts, and Goldwind purchased the entire first production run (supported by [[IPRO]], who finally saw an end to the crisis in sight). Existing pilots, having been trained to avoid swarms at all costs, were unwilling to crew the aeromechs into overrun territory even after watching their commanding officers return safely from doing the same. An agreement was made with [[Coachguard]] to supply soldiers in exchange for half of the stock of aeromechs.
 
-Air-Paks proved to be extremely effective. Since both they and the portable sprayers were able to run on substandard canisters, blue-grade supply was able to fully support the reconstruction of farms and towns as territory was cleared. By 490, locusts were effectively eradicated from Tilia.
+Aeromechs proved to be extremely effective. Since both they and the portable sprayers were able to run on substandard canisters, blue-grade supply was able to fully support the reconstruction of farms and towns as territory was cleared. By 485, locusts were effectively eradicated from Tilia.
 
 ## Aftermath
 
 In total, roughly one-quarter of Tilian towns were completely destroyed. One third of those destroyed were rebuilt to a standardized design, centered around five triplex compressors in a public square. Many of these towns became popular destinations for displaced citizens, accelerating the centralization of Tilian society.
 
-The remaining Air-Paks not sold to Coachguard were seized by Pax authorities as part of the Crane Affair and were distributed to fire departments internationally.
+The remaining aeromechs not sold to Coachguard were seized by Pax authorities as part of the Crane Affair and were distributed to fire departments internationally.
 
 todo talk about [[barrel bond]] scheme

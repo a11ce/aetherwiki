@@ -8,7 +8,7 @@ The **Pax Centralis** is a supranational economic and military alliance founded 
 
 ## Governance
 
-The authority of Pax is divided into four offices: Diplomacy, Industry, Culture, and State. The heads of the offices are elected by delegates from member states every two years.
+The authority of Pax is divided into four offices: Diplomacy, Industry, Culture, and State. The heads of the offices are elected by delegates from member states every two years. Its law enforcement agency, the [[Pax Marshals Bureau]], is part of the Office of State, but command is traditionally shared between the offices.
 
 Since 433, an Oversight Council of 3 representatives from each member state supervise the application of Pax regulations.
 

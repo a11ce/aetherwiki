@@ -1,4 +1,5 @@
-html, body {
+html,
+body {
   height: 100%;
   margin: 0;
   padding: 0;
@@ -35,8 +36,58 @@ img.fig-right {
   box-sizing: border-box;
 }
 
-figure:has(img.fig-right) figcaption {
+figure:has(img.fig-right) > figcaption {
   padding-left: 0.5em;
+  padding-right: 0.5em;
+  padding-bottom: 0.2em;
+}
+
+details.zoom[open] > summary {
+  position: fixed;
+  inset: 0;
+  margin: 0;
+  background: rgba(0, 0, 0, 0.8);
+}
+
+details.zoom[open] div.zoom-img-block {
+  display: grid;
+  place-items: center;
+  height: calc(100vh - 100px);
+}
+
+details.zoom[open] > summary img {
+  max-width: 95vw;
+  max-height: calc(95vh - 100px);
+  width: auto;
+  height: auto;
+  padding: 0;
+  display: block;
+}
+
+details.zoom[open] div.zoom-info {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 100px;
+  background: white;
+}
+
+details.zoom[open] small {
+  background: #eee;
+  width: 100%;
+  height: 100%;
+  padding-left: 2rem;
+  padding-top: 1em;
+  display: block;
+  font-size: 13px;
+}
+
+details.zoom[open] figcaption {
+  font-size: 2em;
+  margin-left: 2rem;
+  padding-left: 0px;
+  padding-right: 0.5em;
   padding-top: 0.2em;
   padding-bottom: 0.2em;
 }
@@ -46,7 +97,7 @@ footer {
   align-self: center;
   width: 70%;
   margin: 3em auto 1em;
-  flex-shrink: 0;        
+  flex-shrink: 0;
   border-top: 1px solid black;
   padding: 1em;
 }
@@ -54,4 +105,24 @@ footer {
 ul {
   padding-left: 10px;
   margin-top: 0px;
+}
+
+/* zoom mechanics */
+details.zoom > summary .zoom-info {
+  display: none;
+}
+details.zoom[open] > summary .zoom-info {
+  display: block;
+}
+
+details.zoom {
+  display: inline;
+}
+
+details.zoom > summary {
+  list-style: none;
+  display: inline-block;
+}
+details.zoom > summary::-webkit-details-marker {
+  display: none;
 }
