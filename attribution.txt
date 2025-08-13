@@ -6,6 +6,7 @@ arkand_peace.png: a11ce
 kogane.png: a11ce
 wake-society.png: a11ce
 monnais.png: a11ce
+ikara.png: a11ce
 sneal.png: Image created by twitter.com/bugsizedd 
 albatross.png: <a href="https://commons.wikimedia.org/wiki/File:ER-2_809_high_altitude_research_aircraft_in_flight_(EC99-45225-3).jpg">NASA/Jim Ross, Public domain</a>
 corsair.png: <a href="https://commons.wikimedia.org/wiki/File:Le_retour_des_corsaires_en_1806_-_Maurice_ORANGE.jpg">Maurice Orange, Public domain</a>

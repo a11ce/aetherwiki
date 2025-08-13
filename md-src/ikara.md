@@ -3,6 +3,8 @@ title: "Ikara"
 tag: Countries
 ---
 
+![Flag of Ikara](image/ikara.png){.fig-right}
+
 **Ikara** is a country located in southeastern [[Lanteen]]. It borders [[Tilia]] to the north and [[Kota]] to the west. About half of its territory is on various islands in [[Etalameri]], south of the Lanteen mainland. Its capital is Southbar, a large city on the eastern coast.
 
 ## Government
