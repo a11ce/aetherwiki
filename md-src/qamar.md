@@ -1,6 +1,6 @@
 ---
-title: "Sultanate of Qamar"
+title: "Federative Union of Qamar"
 tag: Countries
 ---
 
-in [[Itaan]]. Only location of naturally occurring [[emerald air|aether density]]. Has a historical library. Vaguely allied with Delsin through the [[desert pact]].
+The **Federative Union of Qamar** is a country in eastern [[Itaan]]. It borders [[Monnais]] to the north, [[Arkand]] to the south, and [[Delsin]] to the west. The Qamari desert is the only location of naturally occuring emerald air. It is also known for The Qamar Historical Center in Cadaz.

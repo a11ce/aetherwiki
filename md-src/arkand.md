@@ -21,3 +21,5 @@ Each major commercial and public sector in Arkand is controlled by a vertically 
 The Syndicate Board is a national body of represenatives from each syndicate. They agree on foreign and monetary policy for all of Arkand. Board negotiations are famously transactional.
 
 Notable syndicates include the Stratis Corporation (in charge of civilian aether infrastructure), the Combined Security Syndicate, the Maritime Union, and the Army Directorate.
+
+The Overseas Directorate is a defunct syndicate previously in charge of administering the colony of [[Ikara]].

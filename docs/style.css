@@ -17,6 +17,22 @@ article {
   line-height: 1.4;
 }
 
+h1 {
+  font-size: 2.5em;
+}
+
+h1,
+h2,
+h3 {
+  margin-bottom: 0px;
+}
+
+blockquote,
+blockquote p {
+  font-style: italic;
+  margin-top: 0.2em;
+}
+
 figure:has(img.fig-right) {
   float: right;
   margin: 0 0 1em 1em;

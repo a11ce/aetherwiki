@@ -34,6 +34,7 @@ title: "Index"
 - [[Delsin|delsin.md]]
 - [[Duchy of Liara|liara.md]]
 - [[Ercos|ercos.md]]
+- [[Federative Union of Qamar|qamar.md]]
 - [[Ikara|ikara.md]]
 - [[Kogane|kogane.md]]
 - [[Kota|kota.md]]
@@ -41,17 +42,16 @@ title: "Index"
 - [[Monnais|monnais.md]]
 - [[Republic of Marisa|marisa.md]]
 - [[Stolmont|stolmont.md]]
-- [[Sultanate of Qamar|qamar.md]]
 - [[Tilia|tilia.md]]
 :::
 
 ::: {.col}
 ## Events
 - [[Black-Air Conflict|black-air-conflict.md]]
-- [[Civil Revolt|civil-revolt.md]]
 - [[Corsair Uprising|corsair-uprising.md]]
 - [[Crane Affair|crane-affair.md]]
 - [[Emerald Circuit|emerald-circuit.md]]
+- [[Enchantment|enchantment.md]]
 - [[Liaran Secession|liaran-secession.md]]
 - [[Lock 19 Blockade|lock-19-blockade.md]]
 - [[Locust War|locust-war.md]]
@@ -71,7 +71,7 @@ title: "Index"
 - [[Combined Security Syndicate (Arkand)|acss.md]]
 - [[Goldwind Agricultural Cooperative|goldwind.md]]
 - [[Hoshizawa Time & Lens|hoshizawa.md]]
-- [[Ikara Park Service|ikara-park-service.md]]
+- [[Ikaran Park Service|ikaran-park-service.md]]
 - [[International Pressure Regulation Organization|ipro.md]]
 - [[Liara Canal Authority|liara-canal-authority.md]]
 - [[Nordovest Institute|nordovest-institute.md]]
@@ -112,6 +112,7 @@ title: "Index"
 - [[Cormorant Strait|cormorant-strait.md]]
 - [[Delsin Station|delsin-station.md]]
 - [[Etalameri|etalameri.md]]
+- [[Ferroix|ferroix.md]]
 - [[Highwater|highwater.md]]
 - [[Itaan|itaan.md]]
 - [[Kylmeri|kylmeri.md]]
@@ -135,6 +136,7 @@ title: "Index"
 - [[Airgun|airgun.md]]
 - [[Cassette|cassette.md]]
 - [[Cyclic Repressurizing Engine|crp.md]]
+- [[Densimeter|densimeter.md]]
 - [[Phosgraph|phosgraph.md]]
 - [[Skystone|skystone.md]]
 - [[Triplex Compressor|triplex-compressor.md]]
@@ -152,7 +154,6 @@ title: "Index"
 - [[Orange Stripe|orange-stripe.md]]
 - [[Pax Centralis|pax-centralis.md]]
 - [[Sovereigntism|sovereigntism.md]]
-- [[The Desert Pact|desert-pact.md]]
 - [[Wizard|wizard.md]]
 :::
 

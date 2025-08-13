@@ -9,7 +9,7 @@ tag: Technology
 
 ### Static-pair towers
 
-Phosgraphs were invented at [[Tesser]] University in 24, as a development of pre-Enchantment signaling systems based on shuttered lights. Two towers were installed, one at the northern lighthouse and one on the roof of the House of Isles. These towers had fixed inbound and outbound lenses, forming two fixed unidirectional lanes. Only one lane could be active at a time due to light bleed between nearby air tunnels. Other early towers had the same static-pair configuration, and were mostly constructed by [[Stolmont]] and [[Marisa]] in the [[Mirid Archipelago]] to send messages between islands.
+Phosgraphs were invented at [[Tesser]] University in 24, as a development of pre-[[Enchantment]] signaling systems based on shuttered lights. Two towers were installed, one at the northern lighthouse and one on the roof of the House of Isles. These towers had fixed inbound and outbound lenses, forming two fixed unidirectional lanes. Only one lane could be active at a time due to light bleed between nearby air tunnels. Other early towers had the same static-pair configuration, and were mostly constructed by [[Stolmont]] and [[Marisa]] in the [[Mirid Archipelago]] to send messages between islands.
 
 ### Network scheduling
 

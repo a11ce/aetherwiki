@@ -10,7 +10,7 @@ tag: Countries
 
 ## History
 
-- Pre-Enchantment: Consolidation of various states under a single crown
+- Pre-[[Enchantment]]: Consolidation of various states under a single crown
 - 52: [[Wizard Revolution]] ends, Republic established
 - [[Ribbon War]]
 
@@ -26,6 +26,8 @@ As a legacy of the extensive system of royal titles in use before the Wizard Rev
 
 - [[Montrevieux]] Metro Area
 - [[Roclair]]
+- Soeur-Verron
+- Ferroix
 
 ## Notable Groups
 

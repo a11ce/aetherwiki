@@ -3,7 +3,7 @@ title: "Aether Density"
 tag: Technology
 ---
 
-**Aether density** refers to a standardized grading scale of aethercompression as measured by a densimeter. It was invented in 378 at the [[Nordovest Institute]].
+**Aether density** refers to a scale of aethercompression as measured by a [[densimeter]]. The following standardized grades were formalized in 378 at the [[Nordovest Institute]]:
 
 - Blue is the reference grade. It is the density produced by a [[triplex compressor]] in normal conditions.
 - Gold is high grade. It is produced by larger industrial compressors and replaces previous proprietary standards. For example, the [[Northwind Rail]] pipeline uses Gold 6, formerly known as Ercos C.

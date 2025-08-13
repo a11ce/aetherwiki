@@ -3,4 +3,4 @@ title: "Boreal Ice Cutters"
 tag: Groups
 ---
 
-[[monnais]] group/corporation/something that goes into [[Cerevis]] territory to cut low-aether ice. Low-aether water was first discovered in 295 and is required for the production of modern densimeters.
+The **Boreal ice cutters** are a guild of explorers and technicians who harvest [[low-background ice|aether density]] from [[Cerevis]] and coordinate its global export. They were founded in 300. [[Coachguard Nord]] is contracted annually for protection from Cerevis raiders.

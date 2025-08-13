@@ -13,15 +13,15 @@ After the death of Curtis Claire in 474, during the [[Locust War]], use of the M
 
 ## Smuggling plot
 
-The smuggling operation was led by James Wyatt, the treasurer and quartermaster of Calder Bend Airstrip. On 475.3.2, he contacted an underground broker in [[Montrevieux]] who had put out an ad offering to buy unserialized 'irrigation platforms', understood to mean small aircraft. The broker connected him with Ikaran Army Aviation Lieutenant Lio Ansel. Lt. Ansel oversaw procurement at the North Acheron Depot, south of Fox River and east of the White River Forest.
+The smuggling operation was led by James Wyatt, the treasurer and quartermaster of Calder Bend Airstrip. On 475.3.2, he contacted an underground broker in [[Montrevieux]] who had put out an ad offering to buy unserialized 'irrigation platforms', understood to mean small aircraft. The broker connected him with Ikaran Naval Aviation Lieutenant Lio Ansel. Lt. Ansel oversaw procurement at the North Acheron Depot, south of Fox River and east of the White River Forest.
 
-Wyatt, on behalf of Calder Bend Airstrip, purchased several tons of scrap metal from nearby Windbreak Township, which had been completely devastated by locusts. The scrap metal was delivered to Calder Bend Railyard, where it sat as Wyatt and the Airstrip's head mechanic Marie Burin broke down six M2s and loaded them onto the railcars. Wyatt contacted the Ikaran Public Works Procurement Office who agreed to purchase what they thought was scrap metal at an inflated price under direction from Lt. Ansel. Wyatt presented this to Jerry Kint, the owner of Calder Bend, who approved the transaction.
+Wyatt, on behalf of Calder Bend Airstrip, purchased several tons of scrap metal from nearby Windbreak Township, which had been completely devastated by locusts. The scrap metal was delivered to Calder Bend Railyard, where it sat as Wyatt and the Airstrip's head mechanic Marie Burin broke down six M2s and loaded them onto the railcars. Wyatt contacted the Ikaran Public Works Office who agreed to purchase what they thought was scrap metal at an inflated price under direction from Lt. Ansel. Wyatt presented this to Jerry Kint, the owner of Calder Bend, who approved the transaction.
 
-The scrap metal and Cranes were delivered to North Acheron Depot by Southern Agricultural. The scrap was presumably forwarded to the Public Works Department. The Cranes were rebuilt by IAA mechanics at the depot using parts cannibalized from other nonfunctional aircraft. 
+The scrap metal and Cranes were delivered to North Acheron Depot by Southern Agricultural. The scrap was presumably forwarded to the Public Works Department. The Cranes were rebuilt by INA mechanics at the depot using parts cannibalized from other nonfunctional aircraft. 
 
 ## Investigation
 
-In 478.9.17, a Crane in IAA livery crashed on the Kota side of the White River. The pilot was found dead, and the aircraft was taken in by Kota border guards for inspection. Mechanics determined that the cause of the crash was a thruster failure characteristic to a specific Crane production run from 468. These Cranes were produced by [[SikuTech]] under license, and the run was cut short by Clairon after multiple safety issues were reported. 
+In 478.9.17, a Crane in INA livery crashed on the Kota side of the White River. The pilot was found dead, and the aircraft was taken in by Kota border guards for inspection. Mechanics determined that the cause of the crash was a thruster failure characteristic to a specific Crane production run from 468. These Cranes were produced by [[SikuTech]] under license, and the run was cut short by Clairon after multiple safety issues were reported. 
 
 Kota consulted with SikuTech, who confirmed that most thrusters from that run had been recovered and replaced under warranty. SikuTech provided a list of unaccounted-for serial numbers and the firms that had recieved them. At the request of the Pax Consul of Diplomacy, The [[Pax Marshals Bureau]] was tasked with identifying the location or fate of every airframe on the list.
 
@@ -39,7 +39,7 @@ The Pax Consul of Diplomacy Office indicted Jerry Kint and Marie Burin. The Ikar
 
 Kint was tried in Pax State Court in New Harbor on charges of evading sanctions and falsifying rail manifests. Prosecutors argued that he willfully ignored obvious irregularities in Wyatt's financing scheme, and he was convicted on one count of evading sanctions and received a two-year suspended sentence, which was completed without activation.
 
-Burin pled guilty to aggravated assault in the Tilian Royal Court and was sentenced to 12 years' imprisonment. Upon her release, she fled to Ikara to escape trial in State Court, and is believed to have died while fighting in the Ikaran [[Civil Revolt]].
+Burin pled guilty to aggravated assault in the Tilian Royal Court and was sentenced to 12 years' imprisonment. Upon her release, she fled to Ikara to escape trial in State Court, and is believed to have fled again during the Ikaran Civil Revolt.
 
 Lio Ansel's involvement came to light in the Reconciliation Trials after the Civil Revolt and he was executed for misconduct leading to the death of the test pilot who crashed in Kota.
 
