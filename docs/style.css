@@ -50,12 +50,17 @@ img.fig-right {
   padding: 4px;
   background-color: #f9f9f9;
   box-sizing: border-box;
+  cursor: zoom-in;
 }
 
 figure:has(img.fig-right) > figcaption {
   padding-left: 0.5em;
   padding-right: 0.5em;
   padding-bottom: 0.2em;
+}
+
+details.zoom[open] {
+  cursor: zoom-out;
 }
 
 details.zoom[open] > summary {

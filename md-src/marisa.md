@@ -1,6 +1,6 @@
 ---
-title: "Republic of Marisa"
+title: "Marisa"
 tag: Countries
 ---
 
-finance center. [[ONC|Ordossa Navigation Company]] lives here. south island of [[Mirid Archipelago]].
+Republic of Marisa. finance center/tax haven. [[ONC|Ordossa Navigation Company]] lives here. south island of [[Mirid Archipelago]].

@@ -1,5 +1,5 @@
 ---
-title: "Duchy of Liara"
+title: "Liara"
 tag: Countries
 ---
 

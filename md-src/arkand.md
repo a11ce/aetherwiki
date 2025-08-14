@@ -7,12 +7,15 @@ tag: Countries
 
 **Arkand**, officially the **Dominion of Arkand**, is a country located in southern [[Itaan]]. It borders [[Delsin]] to the northwest and [[Qamar]] to the north. 
 
+
 ## History
 
+- [[Syndicate Accords]]
 - [[corsair uprising]]
 - [[triplex compressor]]
 - [[valve war]]
 - [[Ribbon War]]
+
 
 ## Society and Government
 

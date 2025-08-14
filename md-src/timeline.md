@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-- **Pre-0:** [[Delsin Station|delsin-station]] founded by [[Kogane|kogane]]; [[Nu Ayzen|nu-ayzen]] founded and abandoned.
+- **Unspecified Pre-0:** [[Delsin Station|delsin-station]] founded by [[Kogane|kogane]]; [[Nu Ayzen|nu-ayzen]] founded and abandoned.
 - **0:** The [[Enchantment|enchantment]].
 - **~2:** First known use of [[aetherpower|aetherpower]] by early [[wizards|wizard]].
 - **24:** [[Phosgraphs|phosgraph]] invented at [[Tesser University|tesser]].

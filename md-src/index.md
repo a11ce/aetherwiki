@@ -32,15 +32,15 @@ title: "Index"
 ## Countries
 - [[Arkand|arkand.md]]
 - [[Delsin|delsin.md]]
-- [[Duchy of Liara|liara.md]]
 - [[Ercos|ercos.md]]
-- [[Federative Union of Qamar|qamar.md]]
 - [[Ikara|ikara.md]]
 - [[Kogane|kogane.md]]
 - [[Kota|kota.md]]
+- [[Liara|liara.md]]
 - [[Lusquo|lusquo.md]]
+- [[Marisa|marisa.md]]
 - [[Monnais|monnais.md]]
-- [[Republic of Marisa|marisa.md]]
+- [[Qamar|qamar.md]]
 - [[Stolmont|stolmont.md]]
 - [[Tilia|tilia.md]]
 :::
@@ -57,6 +57,7 @@ title: "Index"
 - [[Locust War|locust-war.md]]
 - [[Nine Knot War|nine-knot-war.md]]
 - [[Ribbon War|ribbon-war.md]]
+- [[Syndicate Accords|syndicate-accords.md]]
 - [[Triplex Crisis|triplex-crisis.md]]
 - [[Valve War|valve-war.md]]
 - [[Vosanite Refinery Disasters|kota-refinery-disasters.md]]
@@ -74,6 +75,7 @@ title: "Index"
 - [[Ikaran Park Service|ikaran-park-service.md]]
 - [[International Pressure Regulation Organization|ipro.md]]
 - [[Liara Canal Authority|liara-canal-authority.md]]
+- [[Maritime Union (Arkand)|maritime-union.md]]
 - [[Nordovest Institute|nordovest-institute.md]]
 - [[Presidium Guard|presidium-guard.md]]
 - [[Starlight Phosgraph Union|starlight.md]]
@@ -161,9 +163,9 @@ title: "Index"
 ## Other
 - [[Barrel Bonds|barrel-bond.md]]
 - [[Beast|beast.md]]
-- [[Liaran Canal Locks|liaran-canal-locks.md]]
 - [[Phi|phi.md]]
 - [[Sneal|sneal.md]]
+- [[Timeline|timeline.md]]
 :::
 
 

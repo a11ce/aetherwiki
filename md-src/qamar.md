@@ -1,5 +1,5 @@
 ---
-title: "Federative Union of Qamar"
+title: "Qamar"
 tag: Countries
 ---
 
