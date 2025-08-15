@@ -12,7 +12,7 @@ The authority of Pax is divided into four offices: Diplomacy, Industry, Culture,
 
 Since 433, an Oversight Council of 3 representatives from each member state supervise the application of Pax regulations.
 
-Both the [[Liara Canal Authority]] and the [[International Pressure Regulation Organization|ipro]] are considered to represent the authority of Pax despite being incorporated as state-owned firms in Liara and Tilia respectively.
+Both the [[Liara Canal Authority]] and the [[International Pressure Regulation Organization|ipro]] are independent charter companies of Pax.
 
 Since 400, the Cormorant Security Protocol authorizes Pax to request and command member military assets for defense and anti-piracy patrols. The Diplomacy and State offices jointly administer CSP operations.
 

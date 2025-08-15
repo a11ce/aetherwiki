@@ -45,4 +45,4 @@ The syndicates as established by the accords are as follows:
 - Registry of Standards and Metrics, responsible land surveying, censuses, densimeter certification, immigration
 - Royal Office, a one-person ceremonial syndicate representing the interests of the Crown in the syndicate board. Usually inactive
 - [[Stratis Corporation]], responsible for infrastructure, housing, and ground transport
-- Vitality and Welfare, responsible hospitals and medical aetherics
+- Vitality and Welfare, responsible for hospitals and medical aetherics
