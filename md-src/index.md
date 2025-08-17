@@ -164,6 +164,7 @@ title: "Index"
 - [[Barrel Bonds|barrel-bond.md]]
 - [[Beast|beast.md]]
 - [[Phi|phi.md]]
+- [[Search|search.md]]
 - [[Sneal|sneal.md]]
 - [[Timeline|timeline.md]]
 :::
