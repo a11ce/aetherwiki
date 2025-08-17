@@ -9,3 +9,9 @@ tag: Companies
 
 - [[Locust War]]
 - [[Crane Affair]]
+
+```{.include}
+md-src/template/wip.html
+```
+
+also other planes. in the 500s aircraft look kinda like 1950s jets? the Crane looks like a Hawker Sea Hawk and the Albatross looks like a U2. the only real constraint is that there's no like. air transport or cargo. planes are really really light and cant carry much weight

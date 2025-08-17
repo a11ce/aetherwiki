@@ -18,3 +18,9 @@ The House of Isles is a non-elected political body made up of representatives fr
 ## Military
 
 The Stolmont Security Office serves as a national police force and coast guard, and commands volunteer divisions during national emergencies.
+
+```{.include}
+md-src/template/wip.html
+```
+
+theyre like dutch/swiss or something. lenses, watches, glassworking. they also make vials (aether equipment that releases a spell when broken)

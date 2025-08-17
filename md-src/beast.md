@@ -11,3 +11,9 @@ They are a subject of ongoing research at the [[Nordovest Institute]]. Their con
 - [[Sneal]]
 - Claw Beast
 - Frant
+
+```{.include}
+md-src/template/wip.html
+```
+
+it's purposefully unclear how beasts are created. there are populations of beasts that are similar so it's probably often a species-level type mutation thing but there are also unique ones. some are dangerous (like aggressive bear-size things) but most of them are cute and silly

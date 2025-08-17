@@ -17,3 +17,9 @@ The **Wake Society** was a [[Kogane]] [[maritime-traditionalist|maritime-traditi
 
 - Motoshige Kita: Naval officer
 - Keiko Shun: Delsin paramilitary chief
+
+```{.include}
+md-src/template/wip.html
+```
+
+they were like a full political party, lots of student groups and stuff

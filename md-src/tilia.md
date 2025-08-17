@@ -17,15 +17,21 @@ tag: Countries
 
 Most of Tilia is sparsely dotted with frontier farming towns. The eastern coast corridor has several large cities.
 
-- Centralized hub for pax. Western sea is too icy for transit
-- shipbuilding/shipping companies?
-- Imports metal/materials for canisters
-- Tourism in New Harbor (largest city)
-- Farm seaweed for fertilizer
-- Coachguard mercenary company
-- Cobra weaponsmiths
-
 ## Notable groups
 
 - [[Coachguard]]
 - [[Fox River Shipyard]]
+
+```{.include}
+md-src/template/wip.html
+```
+
+tilia is technically a constitutional monarchy and the king technically does have absolute power but is very careful not to overstep bc they will definitely get legislated away or killed. a lot of stuff is outsourced (like the military as [[coachguard]]). the frontier also does not have a lot of state capacity, like there's local sheriffs and sometimes Pax Marshals but thats about it. very wild west
+
+
+- Centralized rail/shipping hub for pax cargo
+- shipbuilding industry
+- Imports metal/materials for canisters from arkand for ercos
+- Tourism in New Harbor (largest city)
+- Farms seaweed for fertilizer
+- Cobra weaponsmiths

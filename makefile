@@ -3,6 +3,7 @@ HTMLPAGES := $(MDSOURCES:md-src/%.md=docs/%.html)
 
 PANDOC_OPTS := -f markdown+fenced_divs+wikilinks_title_before_pipe+implicit_figures+link_attributes -t html5 -V lang=en-US -s \
                -c style.css \
+               --lua-filter=include-files.lua \
                --lua-filter=wiki.lua \
                --template=template.html \
                --include-after-body=footer.html

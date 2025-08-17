@@ -19,3 +19,13 @@ Coachguard operates several divisions:
 - Coachguard Aviation operates light aircraft.
 - Coachguard Gold is an unadvertised direct action division.
 - Coachguard Nord is a Monnais subsidiary. It commonly runs security for [[Boreal Ice Cutters]].
+
+```{.include}
+md-src/template/wip.html
+```
+
+tilia basically outsources their military to these guys, there's like 50k of them
+
+they actually do specialize in protective actions but are definitely capable of outright warfare
+
+also i am now realizing that i forgot to add the division that just does other contracts for hire. that exists too. they also kept some aeromechs and otherwise ride horses or ride along in whatever theyre guarding (usually wheeled trains)

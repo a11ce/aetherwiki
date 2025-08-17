@@ -10,3 +10,9 @@ In the 368, the Vosa research center was opened to explore the possibility of in
 Continuous production of what was then called Vosa 2 began in 372. A second refinery in nearby Qime was opened in 374.
 
 The process was licensed to the [[Zalo Technical Kyro]] in 382, who built several refineries in the Vosa region.
+
+```{.include}
+md-src/template/wip.html
+```
+
+vosanite probably has other weird properties

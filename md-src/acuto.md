@@ -8,3 +8,9 @@ tag: Companies
 ## See also
 
 - [[Emerald Circuit]]
+
+```{.include}
+md-src/template/wip.html
+```
+
+new lore: national bank of liara, issues the [[phi]], has branches in most large cities bc everyone needs phi

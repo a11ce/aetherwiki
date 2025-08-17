@@ -14,3 +14,12 @@ Events with alleged ACSS involvement include:
 - Helix-Greyhound Espionage Controversy
 - [[Lock 19 Blockade]]
 - [[Emerald Circuit]]
+
+```{.include}
+md-src/template/wip.html
+```
+
+- has spies everywhere
+- frequently does its own thing for the purpose of destabilizing enemies (and sometimes allies)
+- very secretive including from the rest of the board.
+- weird CIA-MKUltra/gateway type magic 
