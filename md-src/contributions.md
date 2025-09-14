@@ -4,7 +4,7 @@ title: "Contributions"
 
 The following people have contributed to the canon of Aetherworld:
 
-- Jessie: Cerevis, and the initial wargame that the Pax nations fought in
+- Jessie: Cerevis, and the first wargame that the Pax nations fought in
 - skylarke: Nordovest Institute
 - sil: Ikaran Park Service
 - stormtripping702: Sankofa Group
