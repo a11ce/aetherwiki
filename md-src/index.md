@@ -78,6 +78,7 @@ title: "Index"
 - [[Maritime Union (Arkand)|maritime-union.md]]
 - [[Nordovest Institute|nordovest-institute.md]]
 - [[Presidium Guard|presidium-guard.md]]
+- [[Sankofa Group|sankofa-group.md]]
 - [[Starlight Phosgraph Union|starlight.md]]
 - [[Stratis Corporation|stratis-corporation.md]]
 - [[Wake Society|wake-society.md]]
@@ -90,6 +91,7 @@ title: "Index"
 - [[Clairon|clairon.md]]
 - [[Coachguard|coachguard.md]]
 - [[Coachguard Nord|coachguard-nord.md]]
+- [[Cobra Armaments|cobra-armaments.md]]
 - [[Egide|egide.md]]
 - [[Fox River Shipyard|fox-river-shipyard.md]]
 - [[Greyhound|greyhound.md]]
@@ -161,6 +163,7 @@ title: "Index"
 
 ::: {.col}
 ## Other
+- [[An Out-Of-Setting Introduction to Aetherworld|introduction.md]]
 - [[Barrel Bonds|barrel-bond.md]]
 - [[Beast|beast.md]]
 - [[Phi|phi.md]]

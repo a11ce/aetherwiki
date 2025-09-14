@@ -11,6 +11,7 @@ They are a subject of ongoing research at the [[Nordovest Institute]]. Their con
 - [[Sneal]]
 - Claw Beast
 - Frant
+- Rog
 
 ```{.include}
 md-src/template/wip.html
