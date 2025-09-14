@@ -166,6 +166,7 @@ title: "Index"
 - [[An Out-Of-Setting Introduction to Aetherworld|introduction.md]]
 - [[Barrel Bonds|barrel-bond.md]]
 - [[Beast|beast.md]]
+- [[Contributions|contributions.md]]
 - [[Phi|phi.md]]
 - [[Search|search.md]]
 - [[Sneal|sneal.md]]
