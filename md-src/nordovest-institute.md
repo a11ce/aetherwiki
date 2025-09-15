@@ -7,8 +7,7 @@ tag: Groups
 md-src/template/wip.html
 ```
 
-
-in northwest [[tilia]], on the southern bank of [[cormorant strait]]. 
+The **Nordovest Institute (NVI)** is a research university located in [[Tilia]] on the southern bank of the [[Cormorant Strait]].
 
 founded in 140 to study [[aetherpower]]
 
