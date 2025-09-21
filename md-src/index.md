@@ -117,7 +117,9 @@ title: "Index"
 - [[Delsin Station|delsin-station.md]]
 - [[Etalameri|etalameri.md]]
 - [[Ferroix|ferroix.md]]
+- [[Fox River|fox-river.md]]
 - [[Highwater|highwater.md]]
+- [[Irim Desert|irim-desert.md]]
 - [[Itaan|itaan.md]]
 - [[Kylmeri|kylmeri.md]]
 - [[Lanteen|lanteen.md]]
@@ -129,6 +131,7 @@ title: "Index"
 - [[Roclair|roclair.md]]
 - [[Ternmouth|ternmouth.md]]
 - [[Tesser|tesser.md]]
+- [[White River Forest|white-river-forest.md]]
 :::
 
 ::: {.col}
@@ -165,12 +168,19 @@ title: "Index"
 ## Other
 - [[An Out-Of-Setting Introduction to Aetherworld|introduction.md]]
 - [[Barrel Bonds|barrel-bond.md]]
-- [[Beast|beast.md]]
 - [[Contributions|contributions.md]]
 - [[Phi|phi.md]]
 - [[Search|search.md]]
-- [[Sneal|sneal.md]]
 - [[Timeline|timeline.md]]
+:::
+
+::: {.col}
+## Beasts
+- [[Beast|beast.md]]
+- [[Claw Beast|claw-beast.md]]
+- [[Frant|frant.md]]
+- [[Rog|rog.md]]
+- [[Sneal|sneal.md]]
 :::
 
 
