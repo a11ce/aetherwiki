@@ -10,6 +10,7 @@ Usage:
 Requirements:
     pip install beautifulsoup4 networkx pydot
 """
+print("graph [ overlap=false ];\nnode [shape=record,height=1];")
 import os
 import argparse
 from bs4 import BeautifulSoup
