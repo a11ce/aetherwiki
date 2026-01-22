@@ -3,10 +3,4 @@ title: "Amberlee"
 tag: Locations
 ---
 
-**Amberlee** is a smuggler port north of the [[Mirid Archipelago]] on an island nominally part of [[Cerevis]]. It is functionally ungoverned. Many of the businesses are owned by the [[Sankofa Group]].
-
-```{.include}
-md-src/template/wip.html
-```
-
-hive of scum and villainy etc etc. wyatt met the [[crane affair]] broker here
+**Amberlee** is a smuggler port city on an island in the northern [[Kylmeri]]. The city is administered by the [[Peek tribe|cerevisiaen tribes]], and effectively lacks any sort of law enforcement. Many of the business in Amberlee are owned by (or pay tribute to) the [[Sankofa Group]].
