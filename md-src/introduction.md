@@ -15,6 +15,14 @@ Much of the world is extremely socially and politically stable. The majority of 
 
 Year 0 is defined by the [[Enchantment]], an apparently-meteorological phenomenon during which persistent auroras were visible around the world. Since the Enchantment, the atmosphere has contained aether. The suffix 'B.E.' means 'before Enchantment'. This wiki is not written from the perspective of any particular date. In general, present-tense descriptions refer to the 'stable' or 'default' state of things.
 
+## Aether
+
+The central technological conceit is aether, a substance (kind of) found naturally at low concentrations in the air. Compressing air in a certain way produces aethercompressed air, which exerts unusually high force only when in motion. This phenomenon, known as mechanical aetherpower, allows aethercompressed air to be used as a universal fuel and mechanical power source in place of combustion engines, gunpowder, and electricity (which do not exist). Aethercompression is also required for semantic aetherpower.
+
+Semantic aetherpower refers to the ability of aether to perform 'semantically determined' (i.e. magical) effects. These effects are quite limited in scope, and mostly stand in for electronic and mechanical tools that don't exist in aetherworld. Effects are determined by the shape of airflow under certain conditions. (This is mostly handwaved right now.)
+
+[[Wizards|wizard]] are people who can make use of semantic aetherpower without external tools, mostly by whistling. Anyone can become a wizard, but it's a dangerous (especially in the early days) and difficult profession. Over time, wizardry shifts from an artisanal craft/hired fieldwork to the study and design of glyphs for industrial production. Since the mid-100s, aetheric items with pre-set effects are common consumer goods. This is accelerated by the invention of the [[triplex compressor]] in 346.
+
 ## Technology
 
 Much of the particular textures of different time periods come from technological developments. Important inventions include:
@@ -29,15 +37,6 @@ Much of the particular textures of different time periods come from technologica
 Very roughly, the First Era has a 'tech level' similar to the mid/late 19th and very early 20th centuries IRL, the Second Era is similar to the interwar period, and the Third Era is similar to the 1940s-1960s. The Fourth Era is currently underdeveloped but will be somewhat retrofuturist. 
 
 Notably, [[small mechanical engines|crp]] are not invented until 652. Before this, vehicles are powered by massive (steam-engine-sized) engines (ships, landships), direct thrusters (airplanes, some experimental small water/land ships), or biological power (bicycles, horse-drawn carriages, [[rogsleds|rog]]).
-
-## Aether
-
-The central technological conceit is aether, a substance (kind of) found naturally at low concentrations in the air. Compressing air in a certain way produces aethercompressed air, which exerts unusually high force only when in motion. This phenomenon, known as mechanical aetherpower, allows aethercompressed air to be used as a universal fuel and mechanical power source in place of combustion engines, gunpowder, and electricity (which do not exist). Aethercompression is also required for semantic aetherpower.
-
-Semantic aetherpower refers to the ability of aether to perform 'semantically determined' (i.e. magical) effects. These effects are quite limited in scope, and mostly stand in for electronic and mechanical tools that don't exist in aetherworld. Effects are determined by the shape of airflow under certain conditions. (This is mostly handwaved right now.)
-
-[[Wizards|wizard]] are people who can make use of semantic aetherpower without external tools, mostly by whistling. Anyone can become a wizard, but it's a dangerous (especially in the early days) and difficult profession. Over time, wizardry shifts from an artisanal craft/hired fieldwork to the study and design of glyphs for industrial production. Since the mid-100s, aetheric items with pre-set effects are common consumer goods. This is accelerated by the invention of the [[triplex compressor]] in 346.
-
 
 ![World map (click on images like this to expand them)](image/world-map.png){.fig-right}
 
