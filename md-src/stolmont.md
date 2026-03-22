@@ -23,4 +23,4 @@ The Stolmont Security Office serves as a national police force and coast guard, 
 md-src/template/wip.html
 ```
 
-theyre like dutch/swiss or something. lenses, watches, glassworking. they also make vials (aether equipment that releases a spell when broken)
+dutch/swiss vibes. lenses, watches, glassworking. they also make vials (aether equipment that releases a spell when broken)

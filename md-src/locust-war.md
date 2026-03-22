@@ -1,6 +1,7 @@
 ---
 title: "Locust War"
 tag: Events
+complete: true
 ---
 
 ![M5 Albatross operated by Goldwind in flight over Tilia](image/albatross.png){.fig-right}

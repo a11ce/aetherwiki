@@ -1,6 +1,7 @@
 ---
 title: "Corsair Uprising"
 tag: Events
+complete: true
 ---
 
 ![Captain Barrett returns to port with captured Arkandic officers](image/corsair.png){.fig-right}
@@ -9,7 +10,7 @@ The **Corsair Uprising** was a period of conflict and later war of independence 
 
 ## Background
 
-In mid 278, the Overseas Directorate instituted a tax on all commercial voyages by Ikaran-flagged ships, even within Ikara. Some Corsairs began contracting directly with transitting ships, bypassing the registry system and undercutting government prices. Those who were caught were barred from working for the Maritime Union, and sometimes arrested as traitors.
+In mid 278, the Overseas Directorate instituted a tax on all commercial voyages by Ikaran-flagged ships, even within Ikara. Some Corsairs began contracting directly with transitting ships, bypassing the registry system and undercutting government prices. Those who were caught were barred from working for the [[Maritime Union]], and sometimes arrested as traitors.
 
 Allegedly due to lost revenue, the Overseas Directorate shut down the wildlife control service in late 278. Beast attacks, especially near the white forest, because more frequent. Towns in the north formed local militias to combat them and hired blacklisted sailors to transport weapons and other equipment along the Fox River.
 

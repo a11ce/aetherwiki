@@ -1,6 +1,7 @@
 ---
 title: "Claw Beast"
 tag: Beasts
+complete: true
 ---
 
 **Claw Beasts** are [[beasts|beast]] commonly found in and around the eastern side of the [[White River Forest]]. They are extremely aggressive and frequently attack metal structures for unknown reasons. Claw Beasts are 1.5 meters tall and 2.5 meters long.

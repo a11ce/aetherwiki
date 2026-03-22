@@ -1,6 +1,7 @@
 ---
 title: "Suyama"
 tag: Companies
+complete: true
 ---
 
 **Suyama** is a [[K-Envoy|kogane]] in [[Highwater]]. They operate a shipyard specializing in anti-fouling coatings. 

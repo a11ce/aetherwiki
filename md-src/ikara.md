@@ -1,6 +1,7 @@
 ---
 title: "Ikara"
 tag: Countries
+complete: true
 ---
 
 ![Flag of Ikara](image/ikara.png){.fig-right}
@@ -28,7 +29,7 @@ The Administrative Charter of Ikara, in effect since 505, assigns each executive
 
 Ikara was a colony of [[Arkand]] until 278, administered by the Overseas Directorate. Ikaran citizens were not allowed to join Arkandic syndicates, and were not allowed to return to Ikara or join the Overseas Directorate if they became citizens of Arkand.
 
-Arkandic governance was mostly focused on the Etalameri Pass, a sea route through the southern islands. The Etalameri pass is one of the two routes connecting the [[Laumeri]] and [[Kylmeri]], and Arkand was able to charge transit fees to ships sailing through it. The Maritime Union employed local privateers, known as Corsairs, to guide ships through the rocky pass and protect from piracy.
+Arkandic governance was mostly focused on the Etalameri Pass, a sea route through the southern islands. The Etalameri pass is one of the two routes connecting the [[Laumeri]] and [[Kylmeri]], and Arkand was able to charge transit fees to ships sailing through it. The [[Maritime Union]] employed local privateers, known as Corsairs, to guide ships through the rocky pass and protect from piracy.
 
 The colonial period ended with the [[Corsair Uprising]].
 

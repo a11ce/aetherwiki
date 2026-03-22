@@ -1,135 +1,113 @@
 ---
 title: "Timeline"
+complete: true
 ---
 
 This page is automatically generated and may not be accurate.
 
-- **51 BE:** King of [[Arkand|arkand]] dies; charter era begins (background to [[Syndicate Accords|syndicate-accords]]).
-- **50 BE:** [[Stratis Corporation|stratis-corporation]] founded.
-- **30 BE:** Charter companies dominate [[Arkand|arkand]] (background to [[Syndicate Accords|syndicate-accords]]).
-- **10 BE:** [[Arkandic|arkand]] royal courts told to honor charter-company law ([[Syndicate Accords|syndicate-accords]]).
-- **Unspecified Pre-0:** [[Delsin Station|delsin-station]] founded by [[Kogane|kogane]]; [[Nu Ayzen|nu-ayzen]] founded and abandoned; [[Monnais|monnais]] consolidated under a single crown; [[Nine Knot Line|kogane]] operates overseas routes.
-- **0**: The [[Enchantment|enchantment]].
-- **~2**: First known use of [[aetherpower|aetherpower]] by [[wizards|wizard]].
-- **11:** First Conclave of Charterholders in [[Arkand|arkand]].
-- **18:** Second Conclave; [[Syndicate Accords|syndicate-accords]] signed; [[Combined Security Syndicate|acss]] founded; [[Stratis Corporation|stratis-corporation]] expanded.
-- **24:** [[Phosgraphs|phosgraph]] invented at [[Tesser University|tesser]].
-- **36:** First aetheric glyphbook at [[Qamar Library|qamar]].
-- **44–52:** [[Wizard Revolution|wizard-revolution]] in [[Monnais|monnais]].
-- **52:** [[Monnais|monnais]] Republic established.
-- **54:** Presidium wizard-only requirement abolished ([[Monnais|monnais]]).
-- **55:** Rotating [[phosgraph|phosgraph]] lenses in [[Ercos|ercos]].
-- **57:** Cheap dual-purpose lenses by [[Roka|roka]].
-- **62:** Relay balloons by [[Petrel Aerostatics|petrel]] enable over-horizon [[phosgraph|phosgraph]] relays.
-- **78:** [[Starlight Phosgraph Union|starlight]] founded.
-- **81:** First [[Starlight|starlight]] bulletin & codes.
-- **83:** [[Ordossa Navigation Company|ordossa-navigation-company]] joins [[Starlight|starlight]].
-- **118–121:** [[Liaran Secession|liaran-secession]]; [[Liara|liara]] independence.
-- **140:** [[Nordovest Institute|nordovest-institute]] founded.
-- **157:** [[Pax Centralis|pax-centralis]] founded.
-- **180:** Coach & Rail Guard (later [[Coachguard|coachguard]]) founded in [[Tilia|tilia]].
-- **200s:** [[Maritime-traditionalism|maritime-traditionalism]] arises in [[Ercos|ercos]].
-- **202:** [[Liara Canal Authority|liara-canal-authority]] founded (Pax Canal Authority Act).
-- **217:** [[Fox River Shipyard|fox-river-shipyard]] contracted by [[Liara Canal Authority|liara-canal-authority]].
-- **218:** [[Coachguard|coachguard]] wins [[Northwind Rail|northwind-rail]] security contract (as Coach & Rail Guard).
-- **220s:** [[Maritime-traditionalism|maritime-traditionalism]] spreads in [[Kogane|kogane]] (leads to [[Nine Knot War|nine-knot-war]]).
-- **224:** [[Coachguard|coachguard]] incorporated.
-- **228–231:** [[Nine Knot War|nine-knot-war]] ([[Stolmont|stolmont]] vs [[Kogane|kogane]]).
-- **228.2.27:** Lantong Plaza incident at [[Tesser|tesser]]; SSO opens fire on NK Marten.
-- **228.2.29:** SSO blockades [[Delsin Station|delsin-station]]; NK Sable searched; arms for [[Wake Society|wake-society]] uncovered.
-- **228.2.30:** [[Kogane|kogane]] declares war on [[Stolmont|stolmont]].
-- **228.3.1:** Covert evacuation ship reaches blockade (Green Triangle Division).
-- **late 228:** First attempt to break cordon; SSO Daffodil sunk; skirmish pattern begins.
-- **229 (2nd week):** SSO discovers massed CDS armada; tactics shift to layered patrols.
-- **230.3.5:** First inspected commercial convoy reaches [[Delsin Station|delsin-station]] (House of Isles corridor).
-- **230.10:** [[Delsin Station|delsin-station]] petitions House of Isles to regularize port governance.
-- **230.11:** House of Isles convenes aboard Pickett; corridor terms negotiated.
-- **230.11.28:** Relief corridor notice issued; boarding rules set.
-- **230s:** Early [[densimeter|densimeter]]s developed at [[Nordovest Institute|nordovest-institute]].
-- **231.02.04:** Instrument of Delsin signed; [[Delsin|delsin]] transferred to [[Stolmont|stolmont]].
-- **236:** [[International Pressure Regulation Organization|ipro]] founded after Cascina explosion; Cascina Memorial Station established.
-- **249:** Portable [[densimeter|densimeter]] invented; Cascina Station expands offices.
-- **251:** [[Boreal Ice Cutters|boreal-ice-cutters]] guild founded.
-- **mid-250s:** Cascina queues overflow; Cascina Station transferred to [[IPRO|ipro]] (executed 257).
-- **257:** Cascina Station & satellite offices transferred to [[IPRO|ipro]]; [[IPRO Treaty|ipro]] regime begins.
-- **259:** [[Stolmont|stolmont]] commission recommends autonomy overhaul for [[Delsin|delsin]].
-- **261:** Delsin Autonomy Ordinance enacted; “Free Republic of [[Delsin|delsin]]” established as special overseas region.
-- **263:** [[Ercos|ercos]] joins [[IPRO|ipro]] Treaty.
-- **272:** [[Helix Dynamics Group|helix-dynamics]] founded (as Helix Steelworks).
-- **275:** [[Kota|kota]] joins [[IPRO|ipro]] Treaty.
-- **278–284:** [[Corsair Uprising|corsair-uprising]]; [[Ikara|ikara]] breaks from [[Arkand|arkand]].
-- **279.1.14:** Southbar brawl sparks revolt; ports reject Arkandic ships.
-- **279.9:** Captain Barrett sinks AOD Ruhig; officers captured.
-- **280s:** [[Bloodsails|bloodsails]] split from [[Ikara|ikara]].
-- **284:** [[Arkand|arkand]] withdraws in exchange for hostages; end of Uprising.
-- **286:** [[Ikara|ikara]] Coast Guard amnesty for former pirates.
-- **287:** [[Kota|kota]] joins [[Pax Centralis|pax-centralis]].
-- **289 (late):** Etalameri trade restored to pre-Uprising levels.
-- **early 300s:** [[Airguns|airgun]] adopt replaceable multi-shot cartridges.
-- **340:** [[Marisa|marisa]] closes its own cert office and joins [[IPRO|ipro]].
-- **342:** [[Stolmont|stolmont]] joins [[IPRO|ipro]].
-- **346:** [[Triplex Compressor|triplex-compressor]] invented by Goran Feldt ([[Stratis Corporation|stratis-corporation]]).
-- **mid-300s:** [[Liara Canal Authority|liara-canal-authority]] begins selling individual locks into private ownership.
-- **360s:** [[Antipressure Front Itaan|antipressure-front]] splits from NVI branch.
-- **362:** [[Vosanite|vosanite]] discovered in [[Kota|kota]].
-- **364:** Vosanite “leeching” into [[aether density|aether-density]] air noted.
-- **368:** Vosa research center opens ([[Kota|kota]]).
-- **372:** Continuous production of “Vosa 2” begins.
-- **374:** Qime refinery opens.
-- **378:** [[Aether density|aether-density]] grades formalized at [[Nordovest Institute|nordovest-institute]].
-- **382:** Process licensed to [[Zalo Technical Kyro|zalo-technical-kyro]].
-- **392:** [[Triplex Crisis|triplex-crisis]]; triplex patent nationalized to Finance Guild.
-- **400:** Cormorant Security Protocol in [[Pax Centralis|pax-centralis]] authorizes joint defense.
-- **400s (first half):** Distributed-government issues surface in [[Ikara|ikara]] (duplication, safety, nepotism).
-- **406:** [[Ercos|ercos]] joins [[Pax Centralis|pax-centralis]].
-- **410:** Counterfeit triplex containers cause fatal accidents in [[Itaan|itaan]].
-- **413:** [[Blue-stripe Levy|blue-stripe-levy]] added to [[IPRO|ipro]]; Crisis Team created.
-- **418:** [[ONC–ZTK Refinery Agreement|onc-ztk-refinery-agreement]] signed.
-- **late 420s–early 430s:** [[Vosanite Refinery Disasters|kota-refinery-disasters]] era.
-- **428:** Qime “black air” disaster; [[IPRO|ipro]] relief; start of [[Black-Air Conflict|black-air-conflict]].
-- **431:** Vosa station explosion; [[Lock 19 Blockade|lock-19-blockade]] in [[Liara|liara]]; [[IPRO|ipro]] creates Enforcement Team; [[Liara Canal Authority|liara-canal-authority]] allows international lock ownership.
-- **432:** [[Clairon|clairon]] founded.
-- **433:** [[IPRO|ipro]] Task Force Green Mirror exposes [[Emerald Circuit|emerald-circuit]]; [[Pax Centralis|pax-centralis]] Oversight Council supervision begins.
-- **442:** Public, heavily redacted Green Mirror file released.
-- **446:** FRMC (crown corp) formed at [[Fox River Shipyard|fox-river-shipyard]]; [[Stratis Corporation|stratis-corporation]] hosts Triplex Centennial Expo in [[Highwater|highwater]].
-- **447:** Classified [[IPRO|ipro]] raid in [[Roclair|roclair]].
-- **450:** First [[Ikara|ikara]] Harmonization Edict relocates exec offices to Southbar.
-- **450s:** Further Harmonization edicts (registry, compulsory service, procurement centralization).
-- **455:** [[SikuTech Aeromechanics|sikutech]] founded in [[Ternmouth|ternmouth]].
-- **458:** [[Goldwind Agricultural Cooperative|goldwind]] founded.
-- **460s:** Tilian monoculture boom sets stage for locust crisis.
-- **464:** Theo Koli wins Agricultural Academy Grand Prize ([[Monnais|monnais]]).
-- **465:** [[Helix Dynamics Group|helix-dynamics]] purchases Applied Aetherics; rebrands.
-- **468:** Faulty [[Clairon|clairon]] Crane thruster run; Clairon Grand Prix begins annually in [[Ferroix|ferroix]].
-- **470s:** [[Aeromechanic vehicles|aeromech]] developed by [[Greyhound|greyhound]].
-- **472–485:** [[Locust War|locust-war]] in [[Tilia|tilia]].
-- **474:** Death of Curtis Claire; shift to heavy-lift [[M5 Albatross|clairon]].
-- **475.3.2:** Start of [[Crane Affair|crane-affair]] smuggling plot (Calder Bend → [[Ikara|ikara]]).
-- **477:** [[Greyhound|greyhound]] completes [[aeromech|aeromech]]; [[Goldwind|goldwind]] buys first run; half allocated to [[Coachguard|coachguard]].
-- **478.9.17:** INA [[M2 Crane|clairon]] crash in [[Kota|kota]] reveals illicit serial run.
-- **479.2:** [[Pax Marshals Bureau|pax-marshals-bureau]] isolates six suspect airframes.
-- **479.4.10:** Jerry Kint arrested in [[Ternmouth|ternmouth]].
-- **479.4.19:** James Wyatt killed; Marie Burin surrenders.
-- **481:** [[Orange Stripe|orange-stripe]] created by [[IPRO|ipro]].
-- **486:** Seizure of [[Goldwind|goldwind]] aeromechs executed (deferred).
-- **489:** Half of aeromechs assigned to [[Coachguard Nord|coachguard-nord]].
-- **490s:** Postwar expansion of [[phosgraph|phosgraph]] networks in [[Tilia|tilia]]; [[Ercos|ercos]] and most [[Kota|kota]] kyros join [[Starlight|starlight]].
-- **497:** [[Starlight|starlight]] banned in [[Ikara|ikara]].
-- **501:** Coalition of Civil Officers forms ([[Ikara|ikara]]).
-- **502.10:** Civil Revolt broadcasts; Federal Office collapses; [[Ikaran Park Service|ikaran-park-service]] refuses orders.
-- **505:** Administrative Charter enacted; modern [[Ikara|ikara]] “in effect since 505”.
-- **512:** [[Maritime Union (Arkand)|maritime-union]] officers (photo).
-- **520:** [[Starlight|starlight]] begins hosting the Phosgraph Biennale (biennial).
-- **568:** [[Cerevisiaen Pellet Compass|cerevisiaen-pellet-compass]] proposed by Scamdalf Drongo.
-- **570s:** Notable advocacy for pellet compass (Donkey Khan, others).
-- **580s:** Continued advocacy for pellet compass.
-- **590s:** Popularity of pellet compass declines.
-- **602:** Council resolution ends pellet compass policy.
-- **652:** [[Cyclic Repressurizing Engine|crp]] invented by [[Helix Dynamics|helix-dynamics]].
-- **660:** Laminated [[Skystone|skystone]] invented (Helix).
-- **668:** [[Northwind Rail|northwind-rail]] licenses laminated pipe for pipelines.
-- **674:** CRP first applied to land vehicles ([[Helix Dynamics|helix-dynamics]]).
-- **713:** [[Valve War|valve-war]]; [[Arkand|arkand]] invades [[Lusquo|lusquo]]; [[Ordossa Navigation Company|ordossa-navigation-company]] intervenes; [[Pax|pax-centralis]] forces end occupation.
-- **715:** [[Fox River Shipyard|fox-river-shipyard]] builds first prototype CRP-powered hydrofoil.
-- **735:** [[Ribbon War|ribbon-war]] ([[Arkand|arkand]] vs [[Monnais|monnais]]; [[Northwind Rail|northwind-rail]] clashes over CRP trains).
-- **902:** [[Universal Cassette Protocol|universal-cassette-protocol]] introduced (committee incl. [[Inkhouse Precision Instruments|inkhouse]], [[IPRO|ipro]], [[Helix Dynamics|helix-dynamics]], [[Ordossa Navigation Company|ordossa-navigation-company]]).
+- **76 BE:** Sori of Takori convenes an association of kyro leaders in Kota City to standardize currency and measurements, traditionally marking the founding of [[Kota]].
+- **51 BE:** The King of [[Arkand]] dies with no heirs; the Provincial Council begins leasing exclusive charters to royal houses.
+- **50 BE:** The [[Stratis Corporation]] is founded in [[Arkand]].
+- **10 BE:** [[Arkandic|arkand]] royal courts are instructed to recognize the laws and judgments of charter companies.
+- **0:** The [[Enchantment]] occurs, introducing aether to the atmosphere.
+- **~2:** [[Wizards|wizard]] first use [[aetherpower]] within two years of the [[Enchantment]].
+- **11:** The First Conclave of Charterholders in [[Arkand]] establishes a fixed currency exchange rate between charter companies.
+- **18:** The [[Syndicate Accords]] are signed at the Second Conclave, reconstituting the government of [[Arkand]].
+- **24:** The [[phosgraph]] is invented at [[Tesser]] University.
+- **36:** The first aetheric glyphbook is written at the Qamar Library.
+- **44-52:** The [[Wizard Revolution]] overthrows the Kingdom of [[Monnais]] and establishes the Republic.
+- **52:** [[Zalo|zalo technical kyro]] kyro engineers develop a tunnel bore system enabling underground rail networks in [[Kota]].
+- **54:** The wizard requirement for [[Monnais]] Presidium delegates is abolished.
+- **55:** [[Ercosian|ercos]] engineers develop rotatable [[phosgraph]] lenses, enabling scheduled networks.
+- **57:** [[Roka]] develops cheap dual-purpose [[phosgraph]] lenses; the [[ONC|ordossa-navigation-company]] commissions the first non-linear scheduled network.
+- **62:** [[Petrel Aerostatics|petrel]] introduces the relay balloon, enabling cross-ocean [[phosgraph]] transmission.
+- **78:** The [[Starlight Phosgraph Union|starlight]] is founded by [[phosgraph]] operators across [[Monnais]] and [[Qamar]].
+- **81:** The [[Starlight Phosgraph Union|starlight]] publishes its first bulletin with an international pulse-encoding standard.
+- **83:** The [[ONC|ordossa-navigation-company]] joins the [[Starlight Phosgraph Union|starlight]].
+- **118-121:** The [[Liaran Secession]]: [[Liara]] gains independence from [[Tilia]] after merchants blockade the [[Cormorant Strait]], resulting in a bilateral free trade agreement.
+- **138:** [[Cobra Armaments]] is founded in [[Tilia]].
+- **140:** The [[Nordovest Institute]] is founded to study [[aetherpower]].
+- **157:** The [[Pax Centralis]] is formally established as a supranational alliance between [[Liara]] and [[Tilia]].
+- **180:** [[Coachguard]] is founded in [[Tilia]] as the Coach and Rail Guard.
+- **202:** The [[Liara Canal Authority]] is founded under the Pax Canal Authority Act.
+- **217:** The [[Fox River Shipyard]] is contracted by the [[Liara Canal Authority]] to construct canal tugs.
+- **218:** [[Coachguard]] wins a large contract from [[Northwind Rail]].
+- **224:** [[Coachguard]] incorporates and rebrands from Coach and Rail Guard.
+- **228.2.27:** [[Wake Society]] operatives Ranmaru Ito and Naho Okabe are killed at Lantong Plaza in [[Tesser]], triggering the [[Nine Knot War]].
+- **228.2.30:** [[Kogane]] declares war on [[Stolmont]] after a censored [[phosgraph]] leads to misunderstanding of the Lantong Plaza Incident.
+- **231.2.4:** [[Kogane]] signs the Instrument of Delsin, surrendering claims on [[Delsin]] to [[Stolmont]].
+- **late 232:** Hina Teruoka testifies before the [[Kogane]] parliament, admitting to censoring the [[Stolmont]] [[phosgraph]] during the [[Nine Knot War]].
+- **233:** The [[Wake Society]] is declared illegal in [[Kogane]]; Takumi Endo's Kogane Homeland Focus party wins snap elections.
+- **234:** The [[Kogane]] government bans independent political publications.
+- **236:** [[IPRO]] is founded on the [[Cormorant Strait]] after an explosion on an [[LCA|liara canal authority]] tugboat is linked to an overpressurized fuel barrel.
+- **249:** The portable [[densimeter]] is invented.
+- **251:** The [[Boreal Ice Cutters]] guild is founded.
+- **257:** The IPRO Treaty is signed; Cascina Station is transferred to the newly chartered [[IPRO]].
+- **261:** The Delsin Autonomy Ordinance is enacted, creating the Free Republic of [[Delsin]].
+- **263:** [[Ercos]] joins [[IPRO]].
+- **272:** Helix Steelworks (later [[Helix Dynamics]]) is founded in [[Monnais]].
+- **275:** [[Kota]] joins [[IPRO]].
+- **278-284:** The [[Corsair Uprising]]: [[Ikara]] fights for and wins independence from [[Arkandic|arkand]] colonial rule.
+- **279.9:** Captain Barrett sinks the Arkandic ship AOD Ruhig and captures its officers during the [[Corsair Uprising]].
+- **286:** The [[Ikaran|ikara]] Coast Guard offers amnesty to former pirates; those who refuse form the [[Bloodsails]].
+- **286:** [[Kotan|kota]] engineers from the Zalo and Da-Se kyros begin a five-year port modernization project in [[New Harbor]].
+- **287:** [[Kota]] joins the [[Pax Centralis]].
+- **340:** [[Marisa]] joins [[IPRO]].
+- **342:** [[Stolmont]] joins [[IPRO]].
+- **346:** [[Arkandic|arkand]] engineer Goran Feldt of the [[Stratis Corporation]] invents the [[triplex compressor]].
+- **350s:** [[Cobra Armaments]] relocates to [[Delsin]] after the success of their K3 rifle.
+- **~360s:** The [[Antipressure Front]] Itaan splits from the Nordovest group.
+- **362:** [[Vosanite]] is discovered in Vosa, [[Kota]].
+- **364:** Chemist Jinhai Luo of Kemen discovers that [[vosanite]] increases [[aether density]].
+- **368:** The Isuri and Kemen kyros open the Vosa Research Center to develop [[emerald air|aether density]] from [[vosanite]].
+- **372:** The first [[emerald air|aether density]] refinery opens in Vosa, [[Kota]].
+- **374:** A second [[vosanite]] refinery opens in Qime, [[Kota]].
+- **378:** The [[Nordovest Institute]] formalizes standardized [[aether density]] grades.
+- **382:** The [[vosanite]] refinement process is licensed to the [[Zalo Technical Kyro]].
+- **392:** The [[Triplex Crisis]]: the [[Stratis Corporation]] raises [[triplex compressor]] fees in [[Arkand]]; the Syndicate Board nationalizes the patent and transfers it to the [[Finance Guild]].
+- **400:** The [[Pax Centralis]] establishes the Cormorant Security Protocol for joint military operations.
+- **406:** [[Ercos]] joins the [[Pax Centralis]] for Cormorant Security Protocol protection from [[Bloodsails]] attacks.
+- **410:** Counterfeit [[triplex compressor]]-compressed containers flood the [[Itaan]] market, causing fatal accidents.
+- **413:** The [[blue-stripe levy]] is added to the [[IPRO]] Treaty; [[Monnais]], [[Qamar]], and [[Arkand]] join [[IPRO]].
+- **418:** The [[ONC-ZTK Refinery Agreement]] is signed between the [[ONC|ordossa-navigation-company]] and the [[Zalo Technical Kyro]].
+- **428:** A catastrophic [[vosanite refinery disaster|kota refinery disasters]] in Qime triggers the [[Black Air Conflict]] in [[Kota]].
+- **431:** An emerald storage tank explodes at Vosa train station, killing over 600 and ending the [[Black Air Conflict]].
+- **431:** The [[Lock 19 Blockade]]: [[Liaran|liara]] [[sovereigntists|sovereigntism]] block a canal lock, which is seized by soldiers in [[IPRO]] vests.
+- **431:** [[IPRO]] creates the Enforcement Team in response to the [[Lock 19 Blockade]].
+- **432:** [[Clairon]] aircraft company is founded by Boris Claire in [[Monnais]].
+- **433:** [[IPRO]] Enforcement Team exposes the [[Emerald Circuit]] smuggling ring on the ONC Tramontane.
+- **433:** The [[Pax Centralis]] Oversight Council is created following the [[Black Air Conflict]].
+- **434:** Pantheon ([[Finance Guild]]) acquires Lock 19 in [[Liara]].
+- **446:** The [[Stratis Corporation]] hosts the Triplex Centennial Expo in [[Highwater]].
+- **448:** The Fox River Maritime Company is founded and given ownership of the [[Fox River Shipyard]].
+- **450:** The [[Ikaran|ikara]] Federal Office begins the Harmonization Edicts, relocating all executive offices to Southbar.
+- **mid 400s:** The [[Sankofa Group]] first appears in [[Delsin]].
+- **455:** [[SikuTech]] Aeromechanics is founded in [[Ternmouth]].
+- **458:** The [[Goldwind Agricultural Cooperative|goldwind]] is founded by four [[Tilian|tilia]] farms.
+- **464:** Theo Koli wins the [[Monnais]] Agricultural Academy Grand Prize for inventing EpiNou wheat.
+- **465:** Helix Steelworks purchases Applied Aetherics and rebrands to [[Helix Dynamics]].
+- **468:** The first [[Clairon]] Grand Prix air race is held at the [[Ferroix]] Salt Flats.
+- **472-485:** The [[Locust War]]: the [[Goldwind Agricultural Cooperative|goldwind]] wages a pest management campaign against locust swarms across [[Tilia]].
+- **474:** Crop duster pilot Curtis Claire is killed flying through a locust swarm during the [[Locust War]].
+- **477:** [[Greyhound]] completes development of the [[aeromech]]; [[Goldwind Agricultural Cooperative|goldwind]] purchases the first production run for the [[Locust War]].
+- **478.9.17:** A [[Clairon]] Crane in [[Ikaran|ikara]] livery crashes in [[Kota]], triggering the [[Crane Affair]] investigation.
+- **479.4.19:** The [[Pax Marshals Bureau]] raids Calder Bend Airstrip; smuggler James Wyatt is killed during the [[Crane Affair]].
+- **481:** [[IPRO]] establishes the [[Orange Stripe]] designation to track crisis stockpile items.
+- **486:** Pax authorities seize [[Goldwind Agricultural Cooperative|goldwind]]-owned [[aeromechs|aeromech]] in connection with the [[Crane Affair]].
+- **489:** [[Coachguard]] assigns [[aeromechs|aeromech]] to [[Coachguard Nord]].
+- **490s:** [[Ercos]] and [[Kota]] join the [[Starlight Phosgraph Union|starlight]].
+- **497:** The [[Starlight Phosgraph Union|starlight]] is banned in [[Ikara]] under the Harmonization Edicts.
+- **497-502:** The [[Ikaran Park Service]] is diverted to internal security; [[claw beasts|claw beast]] overrun several western [[Ikaran|ikara]] towns.
+- **502:** The [[Ikaran|ikara]] Civil Revolt: the Coalition of Civil Officers broadcasts demands for repeal of the Harmonization Edicts; Commander Silva marches on Southbar and the Federal Office vacates.
+- **505:** The Administrative Charter is enacted, defining the modern [[Ikaran|ikara]] state.
+- **early 500s:** The [[Sankofa Group]] spreads to [[Amberlee]], [[Kota]], and [[Liara]].
+- **520:** The [[Starlight Phosgraph Union|starlight]] begins hosting the Phosgraph Biennale.
+- **568:** Cerevisiaen leader Scamdalf Drongo introduces the [[Cerevisiaen Pellet Compass]].
+- **602:** A [[Cerevisiaen|cerevis]] Council resolution declares the [[Cerevisiaen Pellet Compass]] undesirable.
+- **652:** [[Helix Dynamics]] invents the [[CRP]] engine.
+- **668:** [[Northwind Rail]] licenses laminated iron technology from [[Helix Dynamics]].
+- **674:** [[Helix Dynamics]] first applies the [[CRP]] engine to land vehicles.
+- **713:** The [[Valve War]]: [[Arkand]]'s [[Maritime Union]] invades [[Lusquo]]; Pax forces intervene and [[Lusquo]] becomes a Pax protectorate.
+- **715:** The first [[CRP]]-powered hydrofoil is constructed at the [[Fox River Shipyard]].
+- **735:** The [[Ribbon War]]: [[Monnais]] and [[Arkand]] go to war over [[Arkandic|arkand]] theft of [[CRP]] technology from [[Helix Dynamics]].
+- **902:** The [[Universal Cassette Protocol]] is introduced.

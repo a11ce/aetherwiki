@@ -4,8 +4,14 @@ import frontmatter  # pip install python-frontmatter
 from collections import defaultdict
 
 order = [
-    "Countries", "Events", "Groups", "Companies", "Locations", "Technology",
-    "Politics", "Other"
+    "Countries",
+    "Events",
+    "Groups",
+    "Companies",
+    "Locations",
+    "Technology",
+    "Politics",
+    "Other",
 ]
 
 cats = defaultdict(lambda: defaultdict(list))
@@ -13,7 +19,7 @@ cats = defaultdict(lambda: defaultdict(list))
 for md in glob.glob("md-src/*.md"):
     name = os.path.basename(md)
 
-    if "index" in md:
+    if name in ("index.md", "contributions.md", "search.md"):
         continue
 
     meta = frontmatter.load(md)
@@ -23,10 +29,11 @@ for md in glob.glob("md-src/*.md"):
         main, sub = cat.split(".")
     else:
         main, sub = cat, None
-    cats[main][sub].append((title, name))
+    complete = meta.get("complete", False)
+    cats[main][sub].append((title, name, complete))
 
 print("---")
-print("title: \"Index\"")
+print('title: "Aetherworld"')
 print("---\n")
 print("""<style>
     .cols {
@@ -54,16 +61,22 @@ print("""<style>
     </style>
     """)
 
+print(
+    "Pages marked with ▲ are relatively complete and good places to start exploring. For a general overview of aetherworld, check out the [[introduction]]. \n"
+)
+
 
 def printCat(main):
     print(f"::: {{.col}}\n## {main}")
-    for page, link in sorted(cats[main][None]):
-        print(f"- [[{page}|{link}]]")
+    for page, link, complete in sorted(cats[main][None]):
+        mark = ' <span class="complete"></span>' if complete else ""
+        print(f"- [[{page}|{link}]]{mark}")
 
     for sub in sorted(s for s in cats[main] if s is not None):
         print(f"\n### {sub}")
-        for page, link in sorted(cats[main][sub]):
-            print(f"- [[{page}|{link}]]")
+        for page, link, complete in sorted(cats[main][sub]):
+            mark = ' <span class="complete"></span>' if complete else ""
+            print(f"- [[{page}|{link}]]{mark}")
     print(":::\n")
 
 

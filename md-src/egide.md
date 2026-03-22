@@ -1,6 +1,7 @@
 ---
 title: "Egide"
 tag: Companies
+complete: true
 ---
 
 **Egide** (*eh-ZHEED*) is a [[Monnais]] private military and security company. They specialize in aggressive small-unit operations and, under Monnais' private security laws, frequently work work alongside (or in place of) canton police. They also act as advisors to the [[IPRO]] Enforcement Team.

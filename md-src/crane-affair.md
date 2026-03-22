@@ -1,6 +1,7 @@
 ---
 title: "Crane Affair"
 tag: Events
+complete: true
 ---
 
 The **Crane Affair** was a smuggling scandal in [[Tilia]] regarding the export of [[M2 Cranes|clairon]] to [[Ikara]] by Tilian farmers in violation of [[Pax Centralis]] sanctions. The sanctions, imposed in response to new Ikaran internal security policies seen as repressive, barred the export of dual-use equipment including aircraft. The exposure of the smuggling triggered Pax seizures of [[Goldwind]]-owned [[aeromechanical vehicles|aeromech]] and the creation of the [[Orange Stripe]] designation.

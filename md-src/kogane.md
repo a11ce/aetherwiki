@@ -1,6 +1,7 @@
 ---
 title: "Kogane"
 tag: Countries
+complete: true
 ---
 
 ![Flag of Kogane](image/kogane.png){.fig-right}

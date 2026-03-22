@@ -1,6 +1,7 @@
 ---
 title: "Phosgraph"
 tag: Technology
+complete: true
 ---
 
 **Phosgraphs** are a long-range optical communications system. They transmit colored light pulses within stabilized 'air tunnels' between phosgraph towers. The light pulses are recorded on photosensitive drums and read by operators.
@@ -31,4 +32,4 @@ Network owners recognized that interoperability concerns could lead to popular r
 
 The [[Ordossa Navigation Company]] joined in 83 as the owner of most towers in Marisa. Kota and Ercos continued to set their own schedules for some time after the founding of Starlight. They negotiated a shared schedule and standard for towers on their border, effectively forming a coherent network. 
 
-After the [[Locust War]], many [[Tilian|tilia]] towns were built to include phosgraph towers. A Starlight branch office was opened in Fog-Line Crossing, a Tilian frontier town, to coordinate these towers as they came online. Ercos and most Kota kyros also joined Starlight in the 490s.
+After the [[Locust War]], many [[Tilian|tilia]] towns were built to include phosgraph towers. A Starlight branch office was opened in Fog-Line Crossing, a Tilian frontier town, to coordinate these towers as they came online. Ercos and Kota also joined Starlight in the 490s.

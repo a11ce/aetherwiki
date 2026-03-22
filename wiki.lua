@@ -35,7 +35,8 @@ function Pandoc(doc)
 			)
 		)
 	end
-	if PANDOC_STATE.input_files[1]:match("index") then
+	local src = PANDOC_STATE.input_files[1]
+	if c.skipPages[c.normalize(src)] then
 		return doc
 	end
 	backlinks = c.readBacklinks()

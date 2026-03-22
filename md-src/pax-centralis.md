@@ -19,8 +19,8 @@ Since 400, the Cormorant Security Protocol authorizes Pax to request and command
 ## Membership timeline
 
 - 157: Founded following the [[Liaran Secession]]
-- 287: [[Kota]] joins in order to export surplus crops to Tilia without tariffs.
-- 406: [[Ercos]] joins for CSP protection from [[bloodsail|bloodsails]] attacks.
+- 287: [[Kota]] joins in exchange for a port modernization expedition in [[New Harbor]]
+- 406: [[Ercos]] joins for CSP protection from [[bloodsail|bloodsails]] attacks
 
 ## See also
 

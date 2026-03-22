@@ -1,6 +1,7 @@
 ---
 title: "Frant"
 tag: Beasts
+complete: true
 ---
 
 **Frantim** are [[beasts|beast]] commonly found across the [[Tilian|tilia]] plains and the [[Irim Desert]]. Frantim have a hard exoskeleton, two legs, and two arm-like front appendages. They are roughly one meter long and 60 cm tall when fully grown. 

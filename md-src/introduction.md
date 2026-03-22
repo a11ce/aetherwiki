@@ -1,103 +1,66 @@
 ---
 title: "An Out-Of-Setting Introduction to Aetherworld"
+complete: true
 ---
 
-*This page is written for potential players of Starlight: 515, so it will not mention anything after that year. Starlight: 515 branches into an alternate timeline and there is no expectation for it to remain consistent with post-515 events on the wiki.*
+Aetherworld is a worldbuilding project. It exists partially to serve as a reusable setting for games, and partially (through this wiki) as a standalone creative work.
+
+This page contains some general background information, which you can also pick up by exploring the wiki. If you'd rather do that, go to the [[index]]. Pages marked with ▲ are relatively complete and good places to start.
+
+## Chronology
+
+The described history of aetherworld spans roughly 1000 years. The current focus is on the first half of the timeline, and later events will be described as they become relevant to other projects.
+
+Much of the world is extremely socially and politically stable. The majority of countries and companies persist for centuries. This is an explicit design decision made to give aetherworld projects a shared identity by means of a relatively consistent cast of institutions that evolve over time. For example, [[Ikara]] is variously run by pirates, an authoritarian central government, and decentralized coalition of civil services. 
+
+Year 0 is defined by the [[Enchantment]], an apparently-meteorological phenomenon during which persistent auroras were visible around the world. Since the Enchantment, the atmosphere has contained aether. The suffix 'B.E.' means 'before Enchantment'. This wiki is not written from the perspective of any particular date. In general, present-tense descriptions refer to the 'stable' or 'default' state of things.
+
+## Technology
+
+Much of the particular textures of different time periods come from technological developments. Important inventions include:
+
+- [[Aetherpower]] itself, in year 0. This marks the start of the First Era.
+- [[Phosgraph]] in 24
+- [[Triplex Compressor]] in 346. This marks the start of the Second Era.
+- Thruster aircraft (article WIP) in 432.
+- [[CRP]] engine in 652. This marks the start of the Third Era.
+- [[Universal Cassette Protocol]] in 902. This marks the start of the Fourth Era.
+
+Very roughly, the First Era has a 'tech level' similar to the mid/late 19th and very early 20th centuries IRL, the Second Era is similar to the interwar period, and the Third Era is similar to the 1940s-1960s. The Fourth Era is currently underdeveloped but will be somewhat retrofuturist. 
+
+Notably, [[small mechanical engines|crp]] are not invented until 652. Before this, vehicles are powered by massive (steam-engine-sized) engines (ships, landships), direct thrusters (airplanes, some experimental small water/land ships), or biological power (bicycles, horse-drawn carriages, [[rogsleds|rog]]).
 
 ## Aether
 
-Aether is a substance that appeared in the air after the [[Enchantment]]. It amplifies the physical force of compressed air beyond what is normally possible, and has semantically-determined effects when put into specific shapes. See [[Aetherpower]].
+The central technological conceit is aether, a substance (kind of) found naturally at low concentrations in the air. Compressing air in a certain way produces aethercompressed air, which exerts unusually high force only when in motion. This phenomenon, known as mechanical aetherpower, allows aethercompressed air to be used as a universal fuel and mechanical power source in place of combustion engines, gunpowder, and electricity (which do not exist). Aethercompression is also required for semantic aetherpower.
 
-Soon after the Enchantment, individuals ([[wizards|wizard]]) learned to control the semantic aspects of aetherpower. This was quite dangerous to learn, but simple spells could be replicated and taught easily. Wizards became economically and socially indispensible. Additionally, some countries (such as [[Arkand]] and [[Ercos]]) began to industrially produce compressed air and explore the industrial applications of mechanical aetherpower.
+Semantic aetherpower refers to the ability of aether to perform 'semantically determined' (i.e. magical) effects. These effects are quite limited in scope, and mostly stand in for electronic and mechanical tools that don't exist in aetherworld. Effects are determined by the shape of airflow under certain conditions. (This is mostly handwaved right now.)
 
-In 346, the [[triplex compressor]] was invented, a windmill-like compressor that can fill consumer-size canisters. This kickstarted a sort of industrial revolution, and aetherpower is used as ubiquitously as electricity or the combustion engine (neither of which exist in aetherworld). Generally as of 515, the cultural and tech level is between 1850-1920 depending on the region.
+[[Wizards|wizard]] are people who can make use of semantic aetherpower without external tools, mostly by whistling. Anyone can become a wizard, but it's a dangerous (especially in the early days) and difficult profession. Over time, wizardry shifts from an artisanal craft/hired fieldwork to the study and design of glyphs for industrial production. Since the mid-100s, aetheric items with pre-set effects are common consumer goods. This is accelerated by the invention of the [[triplex compressor]] in 346.
 
-## Countries
 
-There are two continents: Lanteen (west) and Itaan (east). (The world is a sphere, east and west is how they appear on standard world maps).
+![World map (click on images like this to expand them)](image/world-map.png){.fig-right}
 
-#### [[Arkand]]
+## Countries and Geography
 
-- In southern Itaan
-- Extremely industrialized
-- Governed by a Board of vertical syndicates, see [[syndicate accords]]
-- Generally somewhat aggressive/warlike, has spies everywhere
+Aetherworld has two large continents connected over the north pole.
 
-#### [[Delsin]]
+The western continent is called [[Lanteen]], and it contains the countries of [[Liara]], [[Tilia]], [[Ercos]], [[Kota]], and [[Ikara]]. The [[Cormorant Strait]] separates Lanteen and Cerevis. Liara is a city-state built on a cluster of hundreds of islands in the Strait, which is a fast-moving and rocky river traversable by large ships only through the locks in Liara's canal system. [[Etalameri]] is the southern sea, and (along with its islands) is part of the territory of [[Ikara]]. The Ikaran islands are difficult to navigate and (nearly always) home to pirates, so passage usually requires a bribe and/or naval escort. These two maritime chokepoints shape much of the political development of Lanteen. The southern border of Tilia is defined by the [[Fox River]], and the border between Kota and Ikara is the uninhabited [[White River Forest]]. The eastern border of Ercos is a giant manmade wall (article WIP).
 
-- Autonomous region of Stolmont
-- Libertarian research center anarchy
+The eastern continent, [[Itaan]], contains [[Monnais]], [[Delsin]], [[Qamar]], and [[Arkand]]. There is a massive and extremely shallow continental shelf to the south and east of Arkand, blocking most sea travel, and most of Arkand's population lives in the western half. The [[Irim Desert]] covers southern Qamar and extends into Arkand, and its adjacent savannas extend north into Monnais. Because of the low populations in these border regions (and a cultural lack of border enforcement across the world), national borders in Itaan are not particularly well-defined.
 
-#### [[Ercos]]
+[[Kogane]] is an island in [[Laumeri]], and [[Stolmont]] and [[Marisa]] share the [[Mirid Archipelago]] in [[Kylmeri]].
 
-- Freezing cold industrial-optimization zone
-- Largest producer of blue (standard grade) air
-- Centrally planned economy, generally isolationist
+The northern polar region, [[Cerevis]], is home to ten somewhat interconnected non-industrialized tribes (article WIP). The southern polar region (below Etalameri and the Arkandic shelf) is wracked by storms and floating sheets of ice, and is generally not navigable.
 
-#### [[Ikara]]
+## Parastates
 
-- southeast bit of lanteen and nearby islands
-- Civil service democracy
-- Former colony of Arkand, tumultuous history
-- Current de-facto prime minister really hates [[beast]]s
+Parastates (parallel states) are non-state (or sub-state) entities that act like countries. In many cases, people would consider themselves to be loyal to or a citizen of a parastate in the same way that others would see themselves as part of a nation. The mechanics of parastates and their relationships with states vary. The political position of being anti-parastate (or sometimes only against supranational parastates) is known as [[sovereigntism]]. This is a relatively fringe position, and parastates usually have no negative connotation. Some notable parastates are:
 
-#### [[Kogane]]
-
-- Isolated island nation west of delsin
-- See [[Nine Knot War]]
-
-#### [[Kota]]
-
-- southwest bit of lanteen
-- Notable for industrially refining air into emerald (highest-grade)
-- opaque politics (because i havent figured out how they work)
-
-#### [[Liara]]
-
-- very rich city-state in the cormorant strait (venice vibes), which is the west-east passing in northern lanteen
-- known for the cormorant lock system 
-- formerly part of Tilia, still very friendly and ruled by a branch of their royal family
-
-#### [[Lusquo]]
-
-- tiny island nation east of liara that exists mostly to get reversed-falklands'd like 200 years after this game takes place
-
-#### [[Marisa]]
-
-- also kind of tiny but also the home of the largest shipping company in the world
-
-#### [[Monnais]]
-
-- like if revolutionary france stuck with it
-- northern 1/3rd ish of itaan
-
-#### [[Qamar]]
-
-- pretty underdeveloped tbh
-- collect emerald air from the upper atmosphere in balloons/planes
-- middle 1/3rd ish of itaan
-
-#### [[Stolmont]]
-
-- in the same archipelago of Marisa
-- cultural hub/vacation spot
-- does watches/lenses (it's swiss/dutch kinda)
-
-#### [[tilia]]
-
-- east coast is roaring 20s art deco, rest is old west frontier
-- technically a monarchy but the monarch doesnt get involved in day-to-day governance and historically privatizes a lot of stuff
-
-#### [[Cerevis]]
-
-- not a country; north pole region with various tribes that nobody really knows much about
-- currently being united by Ataya "Scamdalf" Drongo
-
-## Other notable groups
-
-- [[Antipressure front]]: against industrial aethercompression 
-- [[bloodsails]]: broke away from ikara after the ikaran revolution bc they didnt like centralization
-- [[Nordovest Institute]]: aetheric/technical research center, lots of wizards
-- [[starlight phosgraph union]]: in-setting telegrams/mail/newspaper
-- [[acuto]]: major international bank from Liara
-- [[ordossa navigation company]]: giant shipping company, captains have a lot of independence
+- The [[Pax Centralis]], a supranational alliance
+- [[IPRO]], initially a regulatory/safety agency
+- [[Coachguard]], the privatized military of Tilia
+- The [[ONC|ordossa-navigation-company]], a global shipping company
+- [[Syndicates|syndicate accords]] in Arkand
+- Kyros in [[Kota]]
+- The [[Starlight Phosgraph Union|Starlight]]

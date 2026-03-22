@@ -1,6 +1,7 @@
 ---
 title: "Syndicate Accords"
 tag: Events
+complete: true
 ---
 
 The **Syndicate Accords** formalized the de-facto status of the [[Arkandic|arkand]] syndicates as the ruling power of the country. They are the constitutional documents of the modern state of Arkand.

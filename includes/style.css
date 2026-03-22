@@ -147,3 +147,7 @@ details.zoom > summary {
 details.zoom > summary::-webkit-details-marker {
   display: none;
 }
+
+li:has(.complete) {
+  list-style-type: "▲ ";
+}

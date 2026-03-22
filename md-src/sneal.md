@@ -1,6 +1,7 @@
 ---
 title: "Sneal"
 tag: Beasts
+complete: true
 ---
 
 ![A sneal.](image/sneal.png){.fig-right}

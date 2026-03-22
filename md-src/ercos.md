@@ -13,9 +13,9 @@ It joined the [[Pax Centralis]] in 406 for free passage through the [[Cormorant 
 md-src/template/wip.html
 ```
 
+- very soviet / cybersyn vibes
 - industrial/research focus, lots of non-magical engineers
 - giant wall
 - super efficient bulk blue aethercompression
 - centrally planned economy (cybersyn style)
 - kind of an industrial dystopia, political parties are illegal etc
-- very soviet

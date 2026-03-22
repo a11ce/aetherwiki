@@ -1,6 +1,7 @@
 ---
 title: "Lock 19 Blockade"
 tag: Events
+complete: true
 ---
 
 The **Lock 19 Blockade** (also known as the **Lock 19 Protest**) was a canal blockade in 431 by Liaran sovereigntists over perceived [[IPRO]] overreach in the wake of the [[Qime refinery disaster|kota refinery disasters]].
@@ -29,7 +30,7 @@ Cooperative LCA engineers were brought in under IPRO guard to operate all locks 
 
 IPRO creates [[enforcement team|Ipro]], 20 operators and 4 patrol boats provided by Egide with the intent to train a larger force. Half of IPRO-ET is permanently stationed in Liara.
 
-Criminal prosecution of Ducco and other sovereigntists resulting in forced sale of lock 19, ultimately to [[Pantheon]].
+Criminal prosecution of Ducco and other sovereigntists resulting in forced sale of lock 19, ultimately to [[Pantheon|finance guild]].
 
 Captain and crew of the Fir repatriated to Arkand.
 

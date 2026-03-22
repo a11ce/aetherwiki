@@ -1,5 +1,8 @@
 local C = {}
 
+C.skipPages = { index = true, introduction = true, timeline = true,
+	contributions = true, search = true, template = true }
+
 function C.normalize(str)
 	return str:gsub("^md%-src/", "")
 		:gsub("%s+", "-")

@@ -1,6 +1,7 @@
 ---
 title: "Qamar"
 tag: Countries
+complete: true
 ---
 
 The **Federative Union of Qamar** is a country in eastern [[Itaan]]. It borders [[Monnais]] to the north, [[Arkand]] to the south, and [[Delsin]] to the southwest. The Qamari region of the [[Irim Desert]] is the only location of naturally occurring [[emerald air|aether density]]. Its capital is Cadaz, a large coastal city home to the Qamar Historical Center.

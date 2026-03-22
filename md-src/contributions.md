@@ -13,6 +13,7 @@ The following people have contributed to the canon of Aetherworld:
 - faience: Royal history of Liara
 - jopa: Cobra Armaments
 - justacoolname: Aesthetics of Egide
+- Claude: Wizard culture
 
 (Not all of these contributions are currently represented on the wiki.)
 

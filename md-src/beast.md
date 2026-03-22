@@ -1,6 +1,7 @@
 ---
 title: "Beast"
 tag: Beasts
+complete: true
 ---
 
 A **beast** is an animal that has apparently been changed in some way by exposure to aethercompressed air. Various kinds of beasts are found across the world.

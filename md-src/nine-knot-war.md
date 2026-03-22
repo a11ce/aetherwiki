@@ -1,6 +1,7 @@
 ---
 title: "Nine Knot War"
 tag: Events
+complete: true
 ---
 
 The **Nine Knot War** was fought between [[Stolmont]] and [[Kogane]] between 228 and 231. It resulted in Stolmont control of [[Delsin]] and the withdrawal of Kogane from international diplomacy.

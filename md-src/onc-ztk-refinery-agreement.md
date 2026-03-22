@@ -1,6 +1,7 @@
 ---
 title: "ONC-ZTK Refinery Agreement"
 tag: Politics
+complete: true
 ---
 
 The **ONC–ZTK Refinery Agreement** was a long-term emerald air supply contract between the [[Ordossa Navigation Company]] and the [[Zalo Technical Kyro]] signed in 418.

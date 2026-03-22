@@ -3,21 +3,17 @@ title: "Black-Air Conflict"
 tag: Events
 ---
 
-period of unrest in [[kota]], 428-431. Kota feels shortchanged bc they've become a valuable producer of emerald air (only producer other than [[Qamar]]) but [[Pax|pax centralis]] refuses to pay them more for it (the initial payment schedule treats all regulated air as blue). 
-
-A refinery in Qime leaks dangerous gas and Pax mandates a shutdown while [[LCA|liara canal authority]] engineers come and do safety inspections. This leads to mass unrest and militias blockading the procurate building in Kota City. 
+The **Black Air Conflict** was a period of mass civil unrest in [[Kota]] between 428 and 431. It began after [[IPRO]] ordered the shutdown of all emerald refineries following a catastrophic [[vosanite refinery disaster|kota refinery disasters]] in Qime and called on the [[Pax Marshals Bureau]] to enforce it. The emerald kyros refused to comply, and their militias blockaded Pax procurate buildings across Kota and set up checkpoints on the Fox River to prevent Pax troops from entering.
 
 ## See also
 
-- [[kota refinery disasters]]
+- [[Kota refinery disasters]]
 - [[Emerald circuit]]
-
 
 ```{.include}
 md-src/template/wip.html
 ```
 
-- pax tries to break the procurate building siege but when they regain sight into Kota it's clear this isnt something that can be solved by force
-- pax governance is renegotiated to form the modern oversight council
-- constitution is amended to price air by density
+- by the time pax gets a clear view into Kota it's clear this isnt something that can be solved by force
+- after vosa, pax governance is renegotiated to form the modern oversight council
 - IPRO waives levies on relief ships (partially leading to [[lock 19 blockade]])

@@ -27,10 +27,17 @@ As a legacy of the extensive system of royal titles in use before the Wizard Rev
 - [[Montrevieux]] Metro Area
 - [[Roclair]]
 - Soeur-Verron
-- Ferroix
+- [[Ferroix]]
 
 ## Notable Groups
 
 - [[helix dynamics]]
 - [[clairon]]
 - [[boreal ice cutters]]
+- [[Presidium Guard]]
+
+```{.include}
+md-src/template/wip.html
+```
+
+social tension of egalitarian republic vs high-class-coded professional wizard culture

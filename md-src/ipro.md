@@ -1,6 +1,7 @@
 ---
 title: "International Pressure Regulation Organization"
 tag: Groups
+complete: true
 ---
 
 The **International Pressure Regulation Organization** (**IPRO**) is a [[Pax|pax centralis]]-based international agency. It was founded in 236 after an explosion on the [[LCA|Liara canal authority]] tugboat Cascina was linked to an overpressurized fuel barrel. 
@@ -17,7 +18,7 @@ The Scientific Team works closely with the [[Nordovest Institute]] Pressure Lab 
 
 The Analytics Team tracks global trade and market information. They were heavily involved in monitoring the [[Black Air Conflict]] and initially flagged the discrepancies caused by the [[Emerald Circuit]] smuggling ring.
 
-The Crisis Team, created in 413, administers IPRO's humanitarian crisis response stockpile. The creation of the Crisis Team was a significant factor in the accession to the blue-stripe levy by Pax countries.
+The Crisis Team, created in 413, administers IPRO's humanitarian crisis response stockpile. The creation of the Crisis Team was a significant factor in the accession to the [[blue-stripe levy]] by Pax countries.
 
 The Legal Team manages legal issues in signatory countries and internal accounting for IPRO.
 

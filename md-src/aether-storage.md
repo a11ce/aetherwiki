@@ -3,7 +3,7 @@ title: "Aether Storage"
 tag: Technology
 ---
 
-Various containers for compressed aether made of [[skystone]]
+Various containers for compressed aether.
 
 - Cartridge: 16cc, 0.6[[phi]] for [[blue|aether density]].
 - Tank (aka canister): 18 in height 12 in dia. 20phi.
