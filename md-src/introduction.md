@@ -3,15 +3,15 @@ title: "An Out-Of-Setting Introduction to Aetherworld"
 complete: true
 ---
 
-Aetherworld is a worldbuilding project. It exists partially to serve as a reusable setting for games, and partially (through this wiki) as a standalone creative work.
+Aetherworld is a fictional setting. It exists partially to serve as a reusable context for games, and partially (through this wiki) as a standalone creative work.
 
 This page contains some general background information, which you can also pick up by exploring the wiki. If you'd rather do that, go to the [[index]]. Pages marked with ▲ are relatively complete and good places to start.
 
 ## Chronology
 
-The described history of aetherworld spans roughly 1000 years. The current focus is on the first half of the timeline, and later events will be described as they become relevant to other projects.
+Much of the world is extremely socially and politically stable. The majority of countries and companies persist for centuries. This is an explicit design decision made to give aetherworld projects a shared identity by means of a relatively consistent cast of institutions that evolve over time.
 
-Much of the world is extremely socially and politically stable. The majority of countries and companies persist for centuries. This is an explicit design decision made to give aetherworld projects a shared identity by means of a relatively consistent cast of institutions that evolve over time. For example, [[Ikara]] is variously run by pirates, an authoritarian central government, and decentralized coalition of civil services. 
+The described history of aetherworld spans roughly 1000 years. The current focus is on the first half of the timeline, and later events will be described as they become relevant to other projects.
 
 Year 0 is defined by the [[Enchantment]], an apparently-meteorological phenomenon during which persistent auroras were visible around the world. Since the Enchantment, the atmosphere has contained aether. The suffix 'B.E.' means 'before Enchantment'. This wiki is not written from the perspective of any particular date. In general, present-tense descriptions refer to the 'stable' or 'default' state of things.
 
@@ -22,21 +22,6 @@ The central technological conceit is aether, a substance (kind of) found natural
 Semantic aetherpower refers to the ability of aether to perform 'semantically determined' (i.e. magical) effects. These effects are quite limited in scope, and mostly stand in for electronic and mechanical tools that don't exist in aetherworld. Effects are determined by the shape of airflow under certain conditions. (This is mostly handwaved right now.)
 
 [[Wizards|wizard]] are people who can make use of semantic aetherpower without external tools, mostly by whistling. Anyone can become a wizard, but it's a dangerous (especially in the early days) and difficult profession. Over time, wizardry shifts from an artisanal craft/hired fieldwork to the study and design of glyphs for industrial production. Since the mid-100s, aetheric items with pre-set effects are common consumer goods. This is accelerated by the invention of the [[triplex compressor]] in 346.
-
-## Technology
-
-Much of the particular textures of different time periods come from technological developments. Important inventions include:
-
-- [[Aetherpower]] itself, in year 0. This marks the start of the First Era.
-- [[Phosgraph]] in 24
-- [[Triplex Compressor]] in 346. This marks the start of the Second Era.
-- Thruster aircraft (article WIP) in 432.
-- [[CRP]] engine in 652. This marks the start of the Third Era.
-- [[Universal Cassette Protocol]] in 902. This marks the start of the Fourth Era.
-
-Very roughly, the First Era has a 'tech level' similar to the mid/late 19th and very early 20th centuries IRL, the Second Era is similar to the interwar period, and the Third Era is similar to the 1940s-1960s. The Fourth Era is currently underdeveloped but will be somewhat retrofuturist. 
-
-Notably, [[small mechanical engines|crp]] are not invented until 652. Before this, vehicles are powered by massive (steam-engine-sized) engines (ships, landships), direct thrusters (airplanes, some experimental small water/land ships), or biological power (bicycles, horse-drawn carriages, [[rogsleds|rog]]).
 
 ![World map (click on images like this to expand them)](image/world-map.png){.fig-right}
 
@@ -63,3 +48,18 @@ Parastates (parallel states) are non-state (or sub-state) entities that act like
 - [[Syndicates|syndicate accords]] in Arkand
 - Kyros in [[Kota]]
 - The [[Starlight Phosgraph Union|Starlight]]
+
+## Technology
+
+Much of the particular textures of different time periods come from technological developments. Important inventions include:
+
+- [[Aetherpower]] itself, in year 0. This marks the start of the First Era.
+- [[Phosgraph]] in 24
+- [[Triplex Compressor]] in 346. This marks the start of the Second Era.
+- Thruster aircraft (article WIP) in 432.
+- [[CRP]] engine in 652. This marks the start of the Third Era.
+- [[Universal Cassette Protocol]] in 902. This marks the start of the Fourth Era.
+
+Very roughly, the First Era has a 'tech level' similar to the mid/late 19th and very early 20th centuries IRL, the Second Era is similar to the interwar period, and the Third Era is similar to the 1940s-1960s. The Fourth Era is currently underdeveloped but will be somewhat retrofuturist.
+
+Notably, [[small mechanical engines|crp]] are not invented until 652. Before this, vehicles are powered by massive (steam-engine-sized) engines (ships, landships), direct thrusters (airplanes, some experimental small water/land ships), or biological power (bicycles, horse-drawn carriages, [[rogsleds|rog]]).
