@@ -3,16 +3,15 @@ title: "Pax Centralis"
 tag: Politics
 ---
 
-The **Pax Centralis** is a supranational economic and military alliance founded in 157. It began as a free trade agreement between [[Liara]] and [[Tilia]] and has expanded to include [[Kota]] and [[Ercos]].
+The **Pax Centralis** is a supranational economic and military alliance founded in 157. It began as a free trade agreement between [[Liara]] and [[Tilia]] signed in 121 following the [[Liaran Secession]] and has expanded to include [[Kota]] and [[Ercos]].
 
+The [[International Pressure Regulation Organization|ipro]] is an independent charter company of Pax.
 
 ## Governance
 
 The authority of Pax is divided into four offices: Diplomacy, Industry, Culture, and State. The heads of the offices are elected by delegates from member states every two years. Its law enforcement agency, the [[Pax Marshals Bureau]], is part of the Office of State, but command is traditionally shared between the offices.
 
 Since 433, an Oversight Council of 3 representatives from each member state supervise the application of Pax regulations.
-
-Both the [[Liara Canal Authority]] and the [[International Pressure Regulation Organization|ipro]] are independent charter companies of Pax.
 
 Since 400, the Cormorant Security Protocol authorizes Pax to request and command member military assets for defense and anti-piracy patrols. The Diplomacy and State offices jointly administer CSP operations.
 

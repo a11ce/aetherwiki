@@ -14,7 +14,7 @@ complete: true
 
 Kogane shipbuilders and captains founded [[Delsin Station]] as a repair and transport hub.
 
-The Nine Knot Line, a government-owned ferry and mail service, ran between [[Kogane]], [[Delsin]], and [[Ikara]], and [[Stolmont]].
+The Nine Knot Line, a government-owned ferry and mail service, ran between [[Kogane]], [[Delsin]], [[Ikara]], and [[Stolmont]].
 
 ### Nine Knot War
 

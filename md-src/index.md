@@ -53,7 +53,7 @@ Pages marked with ▲ are relatively complete and good places to start exploring
 - [[Black-Air Conflict|black-air-conflict.md]]
 - [[Corsair Uprising|corsair-uprising.md]] <span class="complete"></span>
 - [[Crane Affair|crane-affair.md]] <span class="complete"></span>
-- [[Emerald Circuit|emerald-circuit.md]] <span class="complete"></span>
+- [[Emerald Circuit|emerald-circuit.md]]
 - [[Enchantment|enchantment.md]]
 - [[Liaran Secession|liaran-secession.md]]
 - [[Lock 19 Blockade|lock-19-blockade.md]] <span class="complete"></span>
@@ -81,6 +81,7 @@ Pages marked with ▲ are relatively complete and good places to start exploring
 - [[Liara Canal Authority|liara-canal-authority.md]]
 - [[Maritime Union (Arkand)|maritime-union.md]]
 - [[Nordovest Institute|nordovest-institute.md]]
+- [[Pax Marshals Bureau|pax-marshals-bureau.md]]
 - [[Presidium Guard|presidium-guard.md]]
 - [[Sankofa Group|sankofa-group.md]] <span class="complete"></span>
 - [[Starlight Phosgraph Union|starlight.md]]
@@ -105,7 +106,6 @@ Pages marked with ▲ are relatively complete and good places to start exploring
 - [[Nokari|nokari.md]]
 - [[Northwind Rail|northwind-rail.md]]
 - [[Ordossa Navigation Company|ordossa-navigation-company.md]]
-- [[Pax Marshals Bureau|pax-marshals-bureau.md]]
 - [[Petrel Aerostatics|petrel.md]] <span class="complete"></span>
 - [[Roka|roka.md]]
 - [[SikuTech Aeromechanics|sikutech.md]]

@@ -3,7 +3,7 @@ title: "Nokari"
 tag: Companies
 ---
 
-**Nokari** is a [[K-Envoy|Kogane]] gunsmith in [[Roclair]]. They supply [[airguns|airgun]] to chartered security agencies and the Roclair Armory. 
+**Nokari** is a [[Kogane]] corporate envoy gunsmith in [[Roclair]]. They supply [[airguns|airgun]] to chartered security agencies and the Roclair Armory. 
 
 ## Products
 

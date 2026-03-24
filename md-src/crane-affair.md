@@ -42,7 +42,7 @@ Kint was tried in Pax State Court in New Harbor on charges of evading sanctions 
 
 Burin pled guilty to aggravated assault in the Tilian Royal Court and was sentenced to 12 years' imprisonment. Upon her release, she fled to Ikara to escape trial in State Court, and is believed to have fled again during the Ikaran Civil Revolt.
 
-Lio Ansel's involvement came to light in the Reconciliation Trials after the Civil Revolt and he was executed for misconduct leading to the death of the test pilot who crashed in Kota.
+Lio Ansel's involvement was brought to light by the Reconciliation Commission after the Civil Revolt and he was executed for misconduct leading to the death of the test pilot who crashed in Kota.
 
 In parallel with the criminal cases, the Pax Consul of Diplomacy issued a sanctions enforcement order authorizing civil forfeiture of assets materially linked to prohibited exports. Under this authority, Marshals planned to seize a number of Goldwind-owned aeromechs and sell them to municipalities across Pax. Execution of the seizure was deferred until 486 to avoid undue interference with the ongoing Locust War.
 

@@ -3,7 +3,12 @@ title: "Delsin"
 tag: Countries
 ---
 
-The **Republic of Delsin** is a free city/autonomous region of [[Stolmont]] in western [[Itaan]]. 
+The **Free Republic of Delsin** is a free city/autonomous region of [[Stolmont]] in western [[Itaan]]. 
+
+## Timeline
+
+- 231: Transferred from [[Kogane]] to [[Stolmont]] by the [[Instrument of Delsin|nine-knot-war]]
+- 261: Given autonomy by Stolmont
 
 ## Government
 

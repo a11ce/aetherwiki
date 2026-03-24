@@ -58,7 +58,7 @@ A kyro association was called. While the emerald kyros pushed for a hardline sta
 
 In 431, an emerald storage tank at the Vosa train station exploded, killing over 600 people. Many kyro militias in the western mountains stood down, allowing Pax to seize the Vosa refinery. An emergency association was called, and the non-emerald kyros demanded that the emerald kyros accede to IPRO's audits. With little morale remaining among their militias and citizens, the emerald kyros complied.
 
-In subsequent negotiations with Pax, the non-emerald kyros argued that Pax's inability to understand and directly coordinate with the kyro system had allowed the crisis to escalate unnecessarily. As a result, the Pax Oversight Council was created. This gave delegations from member states more direct representation in Pax governance, and established a permanent structure by which Pax could intervene in domestic politics. IPRO also expanded humanitarian operations across western Kota, suspending levies on supplies sent to affected regions.
+In subsequent negotiations with Pax, the non-emerald kyros argued that Pax's inability to understand and directly coordinate with the kyro system had allowed the crisis to escalate unnecessarily. As a result, the Pax Oversight Council was created in 433. This gave delegations from member states more direct representation in Pax governance, and established a permanent structure by which Pax could intervene in domestic politics. IPRO also expanded humanitarian operations across western Kota, suspending levies on supplies sent to affected regions.
 
 ## Kyros
 

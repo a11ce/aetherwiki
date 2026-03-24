@@ -1,8 +1,11 @@
 ---
 title: "Emerald Circuit"
 tag: Events
-complete: true
 ---
+
+```{.include}
+md-src/template/outdated.html
+```
 
 The **Emerald Circuit** was a smuggling and fraud operation that began during the [[Black Air Conflict]]. The ring was orchestrated by ONC Deputy Captain Lucia Voroshin.
 
@@ -29,7 +32,7 @@ One week after the [[Qime refinery disaster|kota refinery disasters]], Captain V
 
 ### Initial suspicion
 
-During the mandated refinery shutdown immediately after the Vosa explosion, IPRO began to keep exact counts of emerald barrels leaving Kota from existing stockpiles to ensure that no illicit refinement was taking place. After the shutdown order was lifted, IPRO continued to closely monitor production and export in case of longer term unrest in Kota or secession from the Pax Centralis. This was done in secret so as not to escalate tensions in the region.
+During the mandated refinery shutdown immediately after the Qime disaster, IPRO began to keep exact counts of emerald barrels leaving Kota from existing stockpiles to ensure that no illicit refinement was taking place. After the shutdown order was lifted, IPRO continued to closely monitor production and export in case of longer term unrest in Kota or secession from the Pax Centralis. This was done in secret so as not to escalate tensions in the region.
 
 As part of its normal duties, IPRO also kept track of emerald air entering the ONC fuel depot in Marisa. This led to a discrepancy in accounting: 4-9% of the emerald barrels being imported by the ONC each month appeared to be coming from somewhere other than Kota. This was initially assumed to be a clerical error caused by the general chaos of the Black Air Conflict, but by 431 the IPRO Analytics Team was confident that Kota exports were being completely counted and an audit request was sent to the newly-founded Enforcement Team.
 

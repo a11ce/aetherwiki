@@ -42,6 +42,7 @@ The syndicates as established by the accords are as follows:
 - Intersyndic Arbitration Court, responsible for suits between syndicates that can't be resolved in the board and between citizens and syndicates
 - [[Maritime Union]], owns the merchant and military navies
 - Narrative Office, employs artists. Frequently hired by Stratis to manage theaters and art galleries.
+- Overseas Directorate, responsible for administering the colony of [[Ikara]]
 - Postal Service, later expanded to include phosgraphs
 - Registry of Standards and Metrics, responsible land surveying, censuses, densimeter certification, immigration
 - Royal Office, a one-person ceremonial syndicate representing the interests of the Crown in the syndicate board. Usually inactive

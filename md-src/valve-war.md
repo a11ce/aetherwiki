@@ -3,6 +3,10 @@ title: "Valve War"
 tag: Events
 ---
 
+```{.include}
+md-src/template/wip.html
+```
+
 In 713 [[Arkand]] is economically not doing great because [[CRPs|CRP]] make a lot of Arkandic industrial manufacturing basically obsolete. Martime Syndicate decides to invade [[Lusquo]] and try to capture their seaweed farming market for export to Pax (WIP. this doesn't actually make any sense). They frame it as an enforcement action against an illegal aether market because Lusquo never formally joined [[IPRO]].
 
 This does not work. The [[ONC|Ordossa Navigation Company]] sees it as a setup to block maritime access to [[Laumeri]] and immediately sends its security ships. ONC attempts to shell Arkandic occupying forces but doesn't want to risk civilian casualties and doesn't have the resources for a ground war.
